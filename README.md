@@ -1,7 +1,7 @@
 # 👋 Hi there 
 <img src="https://user-images.githubusercontent.com/81233149/187807302-33d9f9f8-ed0e-4812-ac2e-40bae2357fa1.png" width="250" height="250" align="right">
 I'm Andrey & welcome to my github page 🙂.<br>
-I'm a cadet at 42sp 👨‍🚀🚀👽 studying to become a __human coder__ and then a game dev/mobile dev.<br>
+I'm a cadet at 42sp 👨‍🚀🚀👽 studying to become a _human coder_ and then a game dev/mobile dev.<br>
 <br><br><br><br><br><br>
 
 ## 🧠 Soft Skills: 
