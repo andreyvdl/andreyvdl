@@ -1,5 +1,5 @@
 # 👋 Hi there 
-<img src="https://github.com/andreyvdl/andreyvdl/blob/main/images/octocat-1661991206272.png" width="250" height="300" align="right">
+<img src="https://github.com/andreyvdl/andreyvdl/blob/main/images/octocat-1661991206272.png" width="250" height="300em" align="right">
 I'm Andrey & welcome to my github page 🙂.<br>
 I'm a cadet at 42sp 👨‍🚀🚀👽 studying to become a _human coder_ and then a game dev/mobile dev.<br>
 
