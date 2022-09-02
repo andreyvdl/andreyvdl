@@ -1,8 +1,10 @@
 # 👋 Hi there 
-<img src="https://user-images.githubusercontent.com/81233149/187807302-33d9f9f8-ed0e-4812-ac2e-40bae2357fa1.png" width="250" height="250" align="right">
+<img src="https://github.com/andreyvdl/andreyvdl/blob/main/images/octocat-1661991206272.png" width="250" height="300" align="right">
 I'm Andrey & welcome to my github page 🙂.<br>
 I'm a cadet at 42sp 👨‍🚀🚀👽 studying to become a _human coder_ and then a game dev/mobile dev.<br>
-<br><br><br><br><br><br>
+<img src="https://github.com/andreyvdl/42sp-basecamp-2021-badges/blob/main/explorador.png" width="150" height="150"><br> | <img src="https://github.com/andreyvdl/42sp-basecamp-2021-badges/blob/main/Comunidade-3.png" width="150" height="150"><br> | <img src="https://github.com/andreyvdl/42sp-basecamp-2021-badges/blob/main/Vila-Unida-3.png" width="150" height="150"><br>
+----- | ----- | -----
+
 
 ## 🧠 Soft Skills: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="50" height="50"><br><sub>BASH</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="50" height="50"><br><sub>C language</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50"><br><sub>CSS3</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"><br><sub>HTML5</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"><br><sub>Javascript</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50" height="50"><br><sub>Photoshop</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50" height="50"><br><sub>VIM</sub>
