@@ -2,7 +2,8 @@
 <img src="https://github.com/andreyvdl/andreyvdl/blob/main/images/octocat-1661991206272.png" width="250" height="300" align="right">
 I'm Andrey & welcome to my github page 🙂.<br>
 I'm a cadet at 42sp 👨‍🚀🚀👽 studying to become a _human coder_ and then a game dev/mobile dev.<br>
-<img src="https://github.com/andreyvdl/42sp-basecamp-2021-badges/blob/main/explorador.png" width="150" height="150"><br> | <img src="https://github.com/andreyvdl/42sp-basecamp-2021-badges/blob/main/Comunidade-3.png" width="150" height="150"><br> | <img src="https://github.com/andreyvdl/42sp-basecamp-2021-badges/blob/main/Vila-Unida-3.png" width="150" height="150"><br>
+
+<img src="https://github.com/andreyvdl/42sp-basecamp-2021-badges/blob/main/explorador.png" width="200" height="200"> | <img src="https://github.com/andreyvdl/42sp-basecamp-2021-badges/blob/main/Comunidade-3.png" width="200" height="200"> | <img src="https://github.com/andreyvdl/42sp-basecamp-2021-badges/blob/main/Vila-Unida-3.png" width="200" height="200">
 ----- | ----- | -----
 
 
