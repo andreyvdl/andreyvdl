@@ -8,6 +8,9 @@ I'm a cadet at 42sp 👨‍🚀🚀👽 studying to become a <bold>human coder</
 ### 🏊‍♂️ Piscine Achievements 🏅
 <img src="./images/90hours.svg" alt="90 horas ein..." width="100" height="100"> <img src="./images/ace_defenser.svg" alt="OBJECTION!" width="100" height="100"> <img src="./images/aval_ahead.svg" alt="Outstanding project" width="100" height="100"> <img src="./images/film_buff_5.svg" alt="7 ou mais vídeos todos os dias" wwidth="100" height="100"> <img src="./images/same_pc.svg" alt="meu, meu, meu..." width="100" height="100"> <img src="./images/speedrunner_1.svg" alt="delta = -0.001" width="100" height="100"> <img src="./images/welcome_to_42.svg" alt="parabains, muitos parabains" width="100" height="100"><br>
 
+### 🤖 42 Achievements and Badges 🏅
+  none... YET 🚧
+
 ## 🧠 Soft Skills: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75" height="75"><br><sub>BASH</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="75" height="75"><br><sub>C language</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="75" height="75"><br><sub>CSS3</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="75" height="75"><br><sub>HTML5</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="75" height="75"><br><sub>Javascript</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="75" height="75"><br><sub>Photoshop</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="75" height="75"><br><sub>VIM</sub>
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
