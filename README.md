@@ -15,6 +15,9 @@ I'm a <a href="https://profile.intra.42.fr/users/adantas-" target="_blank">cadet
 ### 🤖 42 Achievements and Badges 🏅
 <a href="https://github.com/andreyvdl/42-libft" target="_blank">
 <img src="./images/libftm.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
+</a>
+<a href="https://github.com/andreyvdl/42-get-next-line" target="_blank">
+<img src="./images/get_next_linem.png" alt="Raba eni" width="150" height="150">
 </a><br>
 
 <a href="https://github.com/andreyvdl/Piscine-July2022" target="_blank">
@@ -22,8 +25,8 @@ I'm a <a href="https://profile.intra.42.fr/users/adantas-" target="_blank">cadet
 </a>
 
 ## 🔰 Soft Skills: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75" height="75"><br><sub>BASH</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="75" height="75"><br><sub>C language</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="75" height="75"><br><sub>CSS3</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="75" height="75"><br><sub>HTML5</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="75" height="75"><br><sub>Javascript</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="75" height="75"><br><sub>Photoshop</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="75" height="75"><br><sub>VIM</sub>
-:---: | :---: | :---: | :---: | :---: | :---: | :---:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75" height="75"><br><sub>BASH</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="75" height="75"><br><sub>Clang</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="75" height="75"><br><sub>CSS3</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="75" height="75"><br><sub>HTML5</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="75" height="75"><br><sub>Javascript</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="75" height="75"><br><sub>Photoshop</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="75" height="75"><br><sub>VIM</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="75" height="75"><br><sub>GOlang</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="75" height="75"><br><sub>VSCode</sub>
+:---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 
 ## 🧠 Others:
 <a href="https://github.com/andreyvdl/Sololearn" target="_blank">
@@ -42,12 +45,12 @@ I'm a <a href="https://profile.intra.42.fr/users/adantas-" target="_blank">cadet
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Clang and Golang
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: male pronouns
 - ⚡ Fun fact: ...
 -->
 
