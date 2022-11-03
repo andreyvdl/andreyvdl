@@ -24,7 +24,7 @@ I'm a <a href="https://profile.intra.42.fr/users/adantas-" target="_blank">cadet
 <img src="./images/validaded2.svg" alt="projeto validado" width="100" height="100"> <img src="./images/bonus_hunter.svg" alt="caçadores de bonus" width="100" height="100"> <img src="./images/rich1.svg" alt="here comes the money" width="100" height="100"> <img src="./images/billgates1.svg" alt="todo programador é preguiçoso" width="100" height="100">
 </a>
 
-## 🔰 Soft Skills: 
+## 🔰 Skills: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75" height="75"><br><sub>BASH</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="75" height="75"><br><sub>Clang</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="75" height="75"><br><sub>CSS3</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="75" height="75"><br><sub>HTML5</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="75" height="75"><br><sub>Javascript</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="75" height="75"><br><sub>Photoshop</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="75" height="75"><br><sub>VIM</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="75" height="75"><br><sub>GOlang</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="75" height="75"><br><sub>VSCode</sub>
 :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 
