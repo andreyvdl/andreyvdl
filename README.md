@@ -18,10 +18,13 @@ I'm a <a href="https://profile.intra.42.fr/users/adantas-" target="_blank">cadet
 </a>
 <a href="https://github.com/andreyvdl/42-get-next-line" target="_blank">
 <img src="./images/get_next_linem.png" alt="Raba eni" width="150" height="150">
+</a>
+<a href="https://github.com/andreyvdl/42-ft_printf" target="_blank">
+<img src="./images/ft_printfe.png" alt="agora da pra usar printf" wdith="150" height="150">
 </a><br>
 
 <a href="https://github.com/andreyvdl/Piscine-July2022" target="_blank">
-<img src="./images/validaded2.svg" alt="projeto validado" width="100" height="100"> <img src="./images/bonus_hunter.svg" alt="caçadores de bonus" width="100" height="100"> <img src="./images/rich1.svg" alt="here comes the money" width="100" height="100"> <img src="./images/billgates1.svg" alt="todo programador é preguiçoso" width="100" height="100">
+<img src="./images/validaded3.svg" alt="projeto validado" width="100" height="100"> <img src="./images/bonus_hunter.svg" alt="caçadores de bonus" width="100" height="100"> <img src="./images/rich1.svg" alt="here comes the money" width="100" height="100"> <img src="./images/billgates1.svg" alt="todo programador é preguiçoso" width="100" height="100">
 </a>
 
 ## 🔰 Skills: 
