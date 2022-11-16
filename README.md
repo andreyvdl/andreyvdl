@@ -38,8 +38,8 @@ I'm a <a href="https://profile.intra.42.fr/users/adantas-" target="_blank">cadet
 <br><br>
 
 <a href="https://github.com/andreyvdl">
-<img width="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark"/>
-<img height="125" src="https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <br>
 
 <!--
