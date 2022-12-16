@@ -21,6 +21,9 @@ I'm a <a href="https://profile.intra.42.fr/users/adantas-" target="_blank">cadet
 </a>
 <a href="https://github.com/andreyvdl/42-ft_printf" target="_blank">
 <img src="./images/ft_printfe.png" alt="agora da pra usar printf" width="100" height="100">
+</a>
+<a href="https://github.com/andreyvdl/42-Born2BeRoot" target="_blank">
+<img src="/images/born2berootm.png" alt="já da pra formatar o pc" width="100" height="100">
 </a><br>
 
 <a href="https://github.com/andreyvdl/Piscine-July2022" target="_blank">
