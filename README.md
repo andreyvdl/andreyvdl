@@ -23,8 +23,17 @@ I'm a <a href="https://profile.intra.42.fr/users/adantas-" target="_blank">cadet
 <img src="./images/ft_printfe.png" alt="agora da pra usar printf" width="100" height="100">
 </a>
 <a href="https://github.com/andreyvdl/42-Born2BeRoot" target="_blank">
-<img src="/images/born2berootm.png" alt="já da pra formatar o pc" width="100" height="100">
-</a><br>
+<img src="./images/born2berootm.png" alt="já da pra formatar o pc" width="100" height="100">
+</a>
+<a href="https://github.com/andreyvdl/42-so_long" target="_blank">
+<img src="./images/so_longm.png" alt="7 ou mais funções todo dia" width="100" height="100">
+</a>
+<a href="https://github.com/andreyvdl/42-minitalk" target="_blank">
+<img src="./images/minitalkn.png" alt="... --- ..." width="100" height="100" style="filter:grayscale(100%);opacity:0.3">
+</a>
+<a href="https://github.com/andreyvdl/42-push_swap" target="_blank">
+<img src="./images/push_swapn.png" alt="" width="100" height="100" style="filter:grayscale(100%);opacity:0.3"><br>
+</a>
 
 <a href="https://github.com/andreyvdl/Piscine-July2022" target="_blank">
 <img src="./images/validaded3.svg" alt="projeto validado" width="50" height="50"> <img src="./images/bonus_hunter.svg" alt="caçadores de bonus" width="50" height="50"> <img src="./images/rich1.svg" alt="here comes the money" width="50" height="50"> <img src="./images/billgates1.svg" alt="todo programador é preguiçoso" width="50" height="50">
