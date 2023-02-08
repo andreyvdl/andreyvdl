@@ -32,7 +32,7 @@ I'm a <a href="https://profile.intra.42.fr/users/adantas-" target="_blank">cadet
 <img src="./images/minitalkn.png" alt="... --- ..." width="100" height="100" style="filter:grayscale(100%);opacity:0.3">
 </a>
 <a href="https://github.com/andreyvdl/42-push_swap" target="_blank">
-<img src="./images/push_swapn.png" alt="" width="100" height="100" style="filter:grayscale(100%);opacity:0.3"><br>
+<img src="./images/push_swapn.png" alt="joga pra cá, joga pra lá" width="100" height="100" style="filter:grayscale(100%);opacity:0.3"><br>
 </a>
 
 <a href="https://github.com/andreyvdl/Piscine-July2022" target="_blank">
