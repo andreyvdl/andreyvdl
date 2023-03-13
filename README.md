@@ -17,27 +17,24 @@ Besides learning programming languages i'm also learning human languages, more s
 
 #### I made the 🇧🇷 version of [MiniLibX Documentation](https://github.com/andreyvdl/MiniLibX_my_docs)<br>
 
-<a href="https://github.com/andreyvdl/42-libft" target="_blank">
-<img src="./images/libftm.png" alt="Silêncio na biblioteca 🤫" width="100" height="100">
-</a>
-<a href="https://github.com/andreyvdl/42-get-next-line" target="_blank">
-<img src="./images/get_next_linem.png" alt="Raba eni" width="100" height="100">
-</a>
-<a href="https://github.com/andreyvdl/42-ft_printf" target="_blank">
-<img src="./images/ft_printfe.png" alt="agora da pra usar printf" width="100" height="100">
-</a>
-<a href="https://github.com/andreyvdl/42-Born2BeRoot" target="_blank">
-<img src="./images/born2berootm.png" alt="já da pra formatar o pc" width="100" height="100">
-</a>
-<a href="https://github.com/andreyvdl/42-so_long" target="_blank">
-<img src="./images/so_longm.png" alt="7 ou mais funções todo dia" width="100" height="100">
-</a>
-<a href="https://github.com/andreyvdl/42-minitalk" target="_blank">
-<img src="./images/minitalkn.png" alt="... --- ..." width="100" height="100" style="filter:grayscale(100%);opacity:0.3">
-</a>
-<a href="https://github.com/andreyvdl/42-push_swap" target="_blank">
-<img src="./images/push_swapn.png" alt="joga pra cá, joga pra lá" width="100" height="100" style="filter:grayscale(100%);opacity:0.3"><br>
-</a>
+<table>
+	<tr>
+		<th><img src="./images/phase_onem.png" alt="MISSION CLEAR"></th>
+		<th>PHASE2</th>
+		<th>PHASE3</th>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/andreyvdl/42-libft" target="_blank"><img src="./images/libftm.png" alt="Silêncio na biblioteca 🤫"></a><td>
+		<td><a href="https://github.com/andreyvdl/42-get-next-line" target="_blank"><img src="./images/get_next_linem.png" alt="Raba eni"></a></td>
+		<td><a href="https://github.com/andreyvdl/42-ft_printf" target="_blank"><img src="./images/ft_printfe.png" alt="agora da pra usar printf"></a></td>
+		<td><a href="https://github.com/andreyvdl/42-Born2BeRoot" target="_blank"><img src="./images/born2berootm.png" alt="já da pra formatar o pc"></a></td>
+		<td><a href="https://github.com/andreyvdl/42-so_long" target="_blank"><img src="./images/so_longm.png" alt="7 ou mais funções todo dia"></a></td>
+		<td><a href="https://github.com/andreyvdl/42-minitalk" target="_blank"><img src="./images/minitalkm.png" alt="... --- ..."></a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/andreyvdl/42-push_swap" target="_blank"><img src="./images/push_swapn.png" alt="joga pra cá, joga pra lá" style="filter:grayscale(100%);opacity:0.3"></a></td>
+	</tr>
+</table>
 
 <a href="https://github.com/andreyvdl/Piscine-July2022" target="_blank">
 <img src="./images/validaded3.svg" alt="projeto validado" width="50" height="50"> <img src="./images/bonus_hunter.svg" alt="caçadores de bonus" width="50" height="50"> <img src="./images/rich1.svg" alt="here comes the money" width="50" height="50"> <img src="./images/billgates1.svg" alt="todo programador é preguiçoso" width="50" height="50">
