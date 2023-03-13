@@ -20,19 +20,36 @@ Besides learning programming languages i'm also learning human languages, more s
 <table>
 	<tr>
 		<th><img src="./images/phase_onem.png" alt="MISSION CLEAR"></th>
-		<th>PHASE2</th>
-		<th>PHASE3</th>
+		<th><img src="./images/phase_twon.png" alt="CONGRATULATIONS" style="opacity:.3; filter:grayscale(100%)"></th>
+		<th><img src="./images/phase_threen.png" alt="$USER LEVEL 99 HP:$hp_cur/$hp_max MP:$mp_cur/$mp_max" style="opacity:.3; filter:grayscale(100%)"></th>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/andreyvdl/42-libft" target="_blank"><img src="./images/libftm.png" alt="Silêncio na biblioteca 🤫"></a><td>
+		<td><a href="https://github.com/andreyvdl/42-libft" target="_blank"><img src="./images/libftm.png" alt="Silêncio na biblioteca 🤫"></a></td>
+		<td><a href="https://github.com/andreyvdl/42-push_swap" target="_blank"><img src="./images/push_swapn.png" alt="joga pra cá, joga pra lá"></a></td>
+		<td><img src="./images/cppn.png" alt="printf(%d, C++)" style="opacity:.3; filter:grayscale(100%)"></td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/andreyvdl/42-get-next-line" target="_blank"><img src="./images/get_next_linem.png" alt="Raba eni"></a></td>
-		<td><a href="https://github.com/andreyvdl/42-ft_printf" target="_blank"><img src="./images/ft_printfe.png" alt="agora da pra usar printf"></a></td>
-		<td><a href="https://github.com/andreyvdl/42-Born2BeRoot" target="_blank"><img src="./images/born2berootm.png" alt="já da pra formatar o pc"></a></td>
-		<td><a href="https://github.com/andreyvdl/42-so_long" target="_blank"><img src="./images/so_longm.png" alt="7 ou mais funções todo dia"></a></td>
-		<td><a href="https://github.com/andreyvdl/42-minitalk" target="_blank"><img src="./images/minitalkm.png" alt="... --- ..."></a></td>
+		<td><img src="./images/minishelln.png" alt="$dev/null$>" style="opacity:.3; filter:grayscale(100%)"></td>
+		<td><img src="./images/ft_containersn.png" alt="Structs be like: foo->bar" style="opacity:.3; filter:grayscale(100%)"></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/andreyvdl/42-push_swap" target="_blank"><img src="./images/push_swapn.png" alt="joga pra cá, joga pra lá" style="filter:grayscale(100%);opacity:0.3"></a></td>
+		<td><a href="https://github.com/andreyvdl/42-ft_printf" target="_blank"><img src="./images/ft_printfe.png" alt="agora da pra usar printf"></a></td>
+		<td><img src="./images/philosophersn.png" alt="So solo che non so niente" style="opacity:.3; filter:grayscale(100%)"></td>
+		<td><img src="./images/inceptionn.png" alt="You musn't be afraid to dream a little bigger, darling." style="opacity:.3; filter:grayscale(100%)"></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/andreyvdl/42-Born2BeRoot" target="_blank"><img src="./images/born2berootm.png" alt="já da pra formatar o pc"></a></td>
+		<td><img src="./images/netpracticen.png" alt="157.40.95.145" style="opacity:.3; filter:grayscale(100%)"></td>
+		<td><img src="./images/webservn.png" alt="HTTPS://" style="opacity:.3; filter:grayscale(100%)"><img src="./images/ft_ircn.png" alt="DISCORDO" style="opacity:.3; filter:grayscale(100%)"></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/andreyvdl/42-so_long" target="_blank"><img src="./images/so_longm.png" alt="7 ou mais funções todo dia"></a></td>
+		<td><img src="./images/cub3dn.png" alt="RIP AND TEAR UNTIL IS DONE" style="opacity:.3; filter:grayscale(100%)"><img src="./images/minirtn.png" alt="WOW NICE GRAPHICS" style="opacity:.3; filter:grayscale(100%)"></td>
+		<td><img src="./images/ft_transcendencen.png" alt="I AM THE GOD OF CODE" style="opacity:.3; filter:grayscale(100%)"></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/andreyvdl/42-minitalk" target="_blank"><img src="./images/minitalkm.png" alt="... --- ..."></a></td>
 	</tr>
 </table>
 
