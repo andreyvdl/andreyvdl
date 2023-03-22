@@ -17,7 +17,7 @@ Besides learning programming languages i'm also learning human languages, more s
 
 #### I made the 🇧🇷 version of [MiniLibX Documentation](https://github.com/andreyvdl/MiniLibX_my_docs)<br>
 
-<table height="750px">
+<table>
 	<tr>
 		<th><img src="./images/phase_onem.png" alt="MISSION CLEAR" width="125px"></th>
 		<th><img src="./images/phase_twon.png" alt="CONGRATULATIONS" width="125px"></th>
