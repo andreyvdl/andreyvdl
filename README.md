@@ -25,7 +25,7 @@ Besides learning programming languages i'm also learning human languages, more s
 	</tr>
 	<tr>
 		<td><a href="https://github.com/andreyvdl/42-libft" target="_blank"><img src="./images/libftm.png" alt="Silêncio na biblioteca 🤫" width="125px"></a></td>
-		<td><a href="https://github.com/andreyvdl/42-push_swap" target="_blank"><img src="./images/push_swapn.png" alt="joga pra cá, joga pra lá" width="125px"></a></td>
+		<td><a href="https://github.com/andreyvdl/42-push_swap" target="_blank"><img src="./images/push_swape.png" alt="joga pra cá, joga pra lá" width="125px"></a></td>
 		<td><img src="./images/cppn.png" alt="printf(%d, C++)" width="125px"></td>
 	</tr>
 	<tr>
