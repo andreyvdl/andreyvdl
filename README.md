@@ -93,12 +93,12 @@ Besides learning programming languages i'm also learning human languages, more s
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="65" height="65"><br>
 			<p>GOlang<br>↘️ ⭐</p>
 		</td>
+	</tr>
+	<tr>	
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="65" height="65"><br>
 			<p>VSCode<br>➡️ ⭐</p>
 		</td>
-	</tr>
-	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" width="65" height="65"><br>
 			<p>Linux/Debian<br>↘️</p>
