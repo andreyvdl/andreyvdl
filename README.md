@@ -112,55 +112,65 @@ Plan to learn:
 	<tr>
 		<td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="65" height="65"><br>
-			<sub>CSharp</sub>
+			<p>CSharp</p>
 		</td>
 		<td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="65" height="65"><br>
-			<sub>Python3</sub>
+			<p>Python3</p>
 		</td>
 		<td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="65" height="65"><br>
-			<sub>CPlusPlus</sub>
+			<p>CPlusPlus</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65" height="65"><br>
-			<sub>SQL Standards</sub>
+			<p>SQL Standards</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="65" height="65"><br>
-			<sub>R lang</sub>
+			<p>R lang</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="65" height="65"><br>
-			<sub>PHP</sub>
+			<p>PHP</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="65" height="65"><br>
-			<sub>Java</sub>
+			<p>Java</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="65" height="65"><br>
-			<sub>Kotlin</sub>
+			<p>Kotlin</p>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="65" height="65"><br>
-			<sub>Ruby</sub>
+			<p>Ruby</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" width="65" height="65"><br>
-			<sub>AngularJS</sub>
+			<p>AngularJS</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65"><br>
-			<sub>NextJS</sub>
+			<p>NextJS</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"><br>
-			<sub>React</sub>
+			<p>React</p>
 		</td>
-		<td align="center>
+		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="65" height="65"><br>
-			<sub>Redux</sub>
+			<p>Redux</p>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="65" height="65"><br>
+			<p>Lua</p>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="65" height="65"><br>
+			<p>Perl</p>
 		</td>
 	</tr>
 </table>
