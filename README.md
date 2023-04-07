@@ -1,7 +1,7 @@
 # 👋 Hi there 🇧🇷
 I'm Andrey & welcome to my github page 🙂.<br>
 I'm a <a href="https://profile.intra.42.fr/users/adantas-" target="_blank">cadet at 42sp 👨‍🚀🚀👽</a> studying to become a <bold>human coder</bold>.<br>
-Besides learning programming languages i'm also learning human languages, more specifically english🇺🇸, japanese🇯🇵, spanish🇪🇸, german🇩🇪, italian🇮🇹, french🇫🇷 and esperanto🇪🇺.<br>
+Besides learning programming languages i'm also learning human languages, more specifically english, japanese, spanish, german, italian, french and esperanto.<br>
 
 ### 🏕️ Basecamp Achievements 🏅
 <a href="https://github.com/andreyvdl/Piscine-July2022" target="_blank">
