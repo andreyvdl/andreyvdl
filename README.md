@@ -89,6 +89,8 @@ Besides learning programming languages i'm also learning human languages, more s
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="65" height="65"><br>
 			<sub>VIM<br>➡️</sub>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="65" height="65"><br>
 			<sub>GOlang<br>↘️ ⭐</sub>
