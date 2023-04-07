@@ -63,45 +63,45 @@ Besides learning programming languages i'm also learning human languages, more s
 	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65" height="65"><br>
-			<sub>BASH<br>➡️ ⭐</sub>
+			<p>BASH<br>➡️ ⭐</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="65" height="65"><br>
-			<sub>Clang<br>↗️ ⭐</sub>
+			<p>Clang<br>↗️ ⭐</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="65" height="65"><br>
-			<sub>HTML5<br>↘️ ⭐</sub>
+			<p>HTML5<br>↘️ ⭐</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="65" height="65"><br>
-			<sub>CSS3<br>⬇️</sub>
+			<p>CSS3<br>⬇️</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="65" height="65"><br>
-			<sub>Javascript<br>⬇️</sub>
+			<p>Javascript<br>⬇️</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="65" height="65"><br>
-			<sub>Photoshop<br>↘️</sub>
+			<p>Photoshop<br>↘️</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="65" height="65"><br>
-			<sub>VIM<br>➡️</sub>
+			<p>VIM<br>➡️</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="65" height="65"><br>
-			<sub>GOlang<br>↘️ ⭐</sub>
+			<p>GOlang<br>↘️ ⭐</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="65" height="65"><br>
-			<sub>VSCode<br>➡️ ⭐</sub>
+			<p>VSCode<br>➡️ ⭐</p>
 		</td>
 	</tr>
 	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" width="65" height="65"><br>
-			<sub>Linux/Debian<br>↘️</sub>
+			<p>Linux/Debian<br>↘️</p>
 		</td>
 	</tr>
 </table>
