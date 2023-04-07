@@ -104,6 +104,65 @@ Besides learning programming languages i'm also learning human languages, more s
 	</tr>
 </table>
 
+Plan to learn:
+
+<table>
+	<tr>
+		<td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="65" height="65"><br>
+			<sub>CSharp</sub>
+		</td>
+		<td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="65" height="65"><br>
+			<sub>Python3</sub>
+		</td>
+		<td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="65" height="65"><br>
+			<sub>CPlusPlus</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65" height="65"><br>
+			<sub>SQL Standards</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="65" height="65"><br>
+			<sub>R lang</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="65" height="65"><br>
+			<sub>PHP</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="65" height="65"><br>
+			<sub>Java</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="65" height="65"><br>
+			<sub>Kotlin</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="65" height="65"><br>
+			<sub>Ruby</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" width="65" height="65"><br>
+			<sub>AngularJS</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65"><br>
+			<sub>NextJS</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"><br>
+			<sub>React</sub>
+		</td>
+		<td align="center>
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="65" height="65"><br>
+			<sub>Redux</sub>
+		</td>
+	</tr>
+</table>
+
 ## 🧠 Others:
 <a href="https://github.com/andreyvdl/Sololearn" target="_blank">
 <img src="./images/sololearn_logo.svg" alt="home alone" width="50" height="50">
