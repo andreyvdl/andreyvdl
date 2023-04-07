@@ -57,9 +57,52 @@ Besides learning programming languages i'm also learning human languages, more s
 <img src="./images/validaded3.svg" alt="projeto validado" width="50" height="50"> <img src="./images/bonus_hunter.svg" alt="caçadores de bonus" width="50" height="50"> <img src="./images/rich1.svg" alt="here comes the money" width="50" height="50"> <img src="./images/billgates1.svg" alt="todo programador é preguiçoso" width="50" height="50">
 </a>
 
-## 🔰 Skills: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65" height="65"><br><sub>BASH</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="65" height="65"><br><sub>Clang</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="65" height="65"><br><sub>CSS3</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="65" height="65"><br><sub>HTML5</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="65" height="65"><br><sub>Javascript</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="65" height="65"><br><sub>Photoshop</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="65" height="65"><br><sub>VIM</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="65" height="65"><br><sub>GOlang</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="65" height="65"><br><sub>VSCode</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" width="65" height="65"><br><sub>Linux/Debian</sub>
-:---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
+## 🔰 Skills:
+
+<table>
+	<tr>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65" height="65"><br>
+			<sub>BASH<br>➡️ ⭐</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="65" height="65"><br>
+			<sub>Clang<br>↗️ ⭐</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="65" height="65"><br>
+			<sub>HTML5<br>↘️ ⭐</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="65" height="65"><br>
+			<sub>CSS3<br>⬇️</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="65" height="65"><br>
+			<sub>Javascript<br>⬇️</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="65" height="65"><br>
+			<sub>Photoshop<br>↘️</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="65" height="65"><br>
+			<sub>VIM<br>➡️</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="65" height="65"><br>
+			<sub>GOlang<br>↘️ ⭐</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="65" height="65"><br>
+			<sub>VSCode<br>➡️ ⭐</sub>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" width="65" height="65"><br>
+			<sub>Linux/Debian<br>↘️</sub>
+		</td>
+	</tr>
+</table>
 
 ## 🧠 Others:
 <a href="https://github.com/andreyvdl/Sololearn" target="_blank">
