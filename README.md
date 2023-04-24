@@ -3,6 +3,7 @@ I'm Andrey & welcome to my github page 🙂.<br>
 I'm a <a href="https://profile.intra.42.fr/users/adantas-" target="_blank">cadet at 42sp 👨‍🚀🚀👽</a> studying to become a <bold>human coder</bold>.<br>
 Besides learning programming languages i'm also learning human languages, more specifically english, japanese, spanish, german, italian, french and esperanto.<br>
 
+<!--
 ### 🏕️ Basecamp Achievements 🏅
 <a href="https://github.com/andreyvdl/Piscine-July2022" target="_blank">
 <img src="./images/explorador.png" alt="Montei a barraca" width="150" height="150"> <img src="./images/Comunidade-3.png" alt="Você disse evento?" width="150" height="150"> <img src="./images/Vila-Unida-3.png" alt="Saudades da vila" width="150" height="150"> <img src="./images/Foco-1.png" alt="25% focado" width="150" height="150">
@@ -12,6 +13,7 @@ Besides learning programming languages i'm also learning human languages, more s
 <a href="https://github.com/andreyvdl/Piscine-July2022" target="_blank">
 <img src="./images/90hours.svg" alt="90 horas ein..." width="50" height="50"> <img src="./images/ace_defenser.svg" alt="OBJECTION!" width="50" height="50"> <img src="./images/aval_ahead.svg" alt="Outstanding project" width="50" height="50"> <img src="./images/film_buff_5.svg" alt="7 ou mais vídeos todos os dias" width="50" height="50"> <img src="./images/same_pc.svg" alt="meu, meu, meu..." width="50" height="50"> <img src="./images/speedrunner_1.svg" alt="delta = -0.001" width="50" height="50"> <img src="./images/welcome_to_42.svg" alt="parabains, muitos parabains" width="50" height="50">
 </a><br>
+-->
 
 ### 🤖 42 Achievements and Badges 🏅
 
