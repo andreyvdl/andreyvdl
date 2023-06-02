@@ -15,6 +15,8 @@ Besides learning programming languages i'm also learning human languages, more s
 </a><br>
 -->
 
+[comment]: <> (My evolution on the 42 CV)
+
 ### 🤖 42 Achievements and Badges 🏅
 
 #### I made the 🇧🇷 version of [MiniLibX Documentation](https://github.com/andreyvdl/MiniLibX_my_docs)<br>
@@ -43,11 +45,11 @@ Besides learning programming languages i'm also learning human languages, more s
 	<tr>
 		<td><a href="https://github.com/andreyvdl/42-Born2BeRoot" target="_blank"><img src="./images/born2berootm.png" alt="já da pra formatar o pc" width="125px"></a></td>
 		<td><img src="./images/netpracticen.png" alt="157.40.95.145" width="125px"></td>
-		<td><img src="./images/webservn.png" alt="HTTPS://" width="125px"><img src="./images/ft_ircn.png" alt="DISCORDO" width="125px"></td>
+		<td><img src="./images/webservn.png" alt="HTTPS://" width="125px"><br><img src="./images/ft_ircn.png" alt="DISCORDO" width="125px"></td>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/andreyvdl/42-so_long" target="_blank"><img src="./images/so_longm.png" alt="7 ou mais funções todo dia" width="125px"></a></td>
-		<td><img src="./images/cub3dn.png" alt="RIP AND TEAR UNTIL IS DONE" width="125px"><img src="./images/minirtn.png" alt="WOW NICE GRAPHICS" width="125px"></td>
+		<td><img src="./images/cub3dn.png" alt="RIP AND TEAR UNTIL IS DONE" width="125px"><br><img src="./images/minirtn.png" alt="WOW NICE GRAPHICS" width="125px"></td>
 		<td><img src="./images/ft_transcendencen.png" alt="I AM THE GOD OF CODE" width="125px"></td>
 	</tr>
 	<tr>
@@ -58,6 +60,10 @@ Besides learning programming languages i'm also learning human languages, more s
 <a href="https://github.com/andreyvdl/Piscine-July2022" target="_blank">
 <img src="./images/validaded3.svg" alt="projeto validado" width="50" height="50"> <img src="./images/bonus_hunter.svg" alt="caçadores de bonus" width="50" height="50"> <img src="./images/rich1.svg" alt="here comes the money" width="50" height="50"> <img src="./images/billgates1.svg" alt="todo programador é preguiçoso" width="50" height="50">
 </a>
+
+[comment]: <> (Things i know how to work)
+[comment]: <> (The arrow tells how good I'am with this skill)
+[comment]: <> (The star tells if is something I like to use)
 
 ## 🔰 Skills:
 
