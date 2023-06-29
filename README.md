@@ -23,37 +23,29 @@ Besides learning programming languages i'm also learning human languages, more s
 
 <table>
 	<tr>
-		<th><img src="./images/phase_onem.png" alt="MISSION CLEAR" width="125px"></th>
-		<th><img src="./images/phase_twon.png" alt="CONGRATULATIONS" width="125px"></th>
-		<th><img src="./images/phase_threen.png" alt="$USER LEVEL 99 HP:$hp_cur/$hp_max MP:$mp_cur/$mp_max" width="125px"></th>
-	</tr>
-	<tr>
+		<td><img src="./images/phase_onem.png" alt="MISSION CLEAR" width="175px"></td>
 		<td><a href="https://github.com/andreyvdl/42-libft" target="_blank"><img src="./images/libftm.png" alt="Silêncio na biblioteca 🤫" width="125px"></a></td>
-		<td><a href="https://github.com/andreyvdl/42-push_swap" target="_blank"><img src="./images/push_swape.png" alt="joga pra cá, joga pra lá" width="125px"></a></td>
-		<td><img src="./images/cppn.png" alt="printf(%d, C++)" width="125px"></td>
-	</tr>
-	<tr>
 		<td><a href="https://github.com/andreyvdl/42-get-next-line" target="_blank"><img src="./images/get_next_linem.png" alt="Raba eni" width="125px"></a></td>
-		<td><img src="./images/minishelln.png" alt="/dev/null$>" width="125px"></td>
-		<td><img src="./images/ft_containersn.png" alt="Structs be like: foo->bar" width="125px"></td>
-	</tr>
-	<tr>
 		<td><a href="https://github.com/andreyvdl/42-ft_printf" target="_blank"><img src="./images/ft_printfe.png" alt="agora da pra usar printf" width="125px"></a></td>
-		<td><img src="./images/philosophersn.png" alt="So solo che non so niente" width="125px"></td>
-		<td><img src="./images/inceptionn.png" alt="ng." width="125px"></td>
-	</tr>
-	<tr>
 		<td><a href="https://github.com/andreyvdl/42-Born2BeRoot" target="_blank"><img src="./images/born2berootm.png" alt="já da pra formatar o pc" width="125px"></a></td>
-		<td><img src="./images/netpracticen.png" alt="157.40.95.145" width="125px"></td>
-		<td><img src="./images/webservn.png" alt="HTTPS://" width="125px"><br><img src="./images/ft_ircn.png" alt="DISCORDO" width="125px"></td>
-	</tr>
-	<tr>
 		<td><a href="https://github.com/andreyvdl/42-so_long" target="_blank"><img src="./images/so_longm.png" alt="7 ou mais funções todo dia" width="125px"></a></td>
-		<td><img src="./images/cub3dn.png" alt="RIP AND TEAR UNTIL IS DONE" width="125px"><br><img src="./images/minirtn.png" alt="WOW NICE GRAPHICS" width="125px"></td>
-		<td><img src="./images/ft_transcendencen.png" alt="I AM THE GOD OF CODE" width="125px"></td>
+		<td><a href="https://github.com/andreyvdl/42-minitalk" target="_blank"><img src="./images/minitalkm.png" alt="... --- ..." width="125px"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/andreyvdl/42-minitalk" target="_blank"><img src="./images/minitalkm.png" alt="... --- ..." width="125px"></a></td>
+		<td><img src="./images/phase_twon.png" alt="CONGRATULATIONS" width="175px"></td>
+		<td><a href="https://github.com/andreyvdl/42-push_swap" target="_blank"><img src="./images/push_swape.png" alt="joga pra cá, joga pra lá" width="125px"></a></td>
+		<td><img src="./images/minishelln.png" alt="/dev/null$>" width="125px"></td>
+		<td><img src="./images/philosophersn.png" alt="So solo che non so niente" width="125px"></td>
+		<td><img src="./images/netpracticen.png" alt="157.40.95.145" width="125px"></td>
+		<td><img src="./images/cub3dn.png" alt="RIP AND TEAR UNTIL IS DONE" width="125px"><br><img src="./images/minirtn.png" alt="WOW NICE GRAPHICS" width="125px"></td>
+	</tr>
+	<tr>
+		<td><img src="./images/phase_threen.png" alt="$USER LEVEL 99 HP:$hp_cur/$hp_max MP:$mp_cur/$mp_max" width="175px"></td>
+		<td><img src="./images/cppn.png" alt="printf(%d, C++)" width="125px"></td>
+		<td><img src="./images/inceptionn.png" alt="ng." width="125px"></td>
+		<td><img src="./images/webservn.png" alt="HTTPS://" width="125px"><br><img src="./images/ft_ircn.png" alt="DISCORDO" width="125px"></td>
+		<td><img src="./images/ft_transcendencen.png" alt="I AM THE GOD OF CODE" width="125px"></td>
+		<!-- removed <td><img src="./images/ft_containersn.png" alt="Structs be like: foo->bar" width="125px"></td> -->
 	</tr>
 </table>
 
