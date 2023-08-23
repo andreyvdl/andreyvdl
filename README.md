@@ -11,7 +11,7 @@ studying to become a **human coder**.
 
 [comment]: <> (My evolution on the 42 CV)
 
-### 🤖 42 Achievements and Badges 🏅
+### 42 Badges 🏅
 
 #### I made the 🇧🇷 version of [MiniLibX Documentation](https://github.com/andreyvdl/MiniLibX_my_docs)<br>
 
@@ -42,17 +42,26 @@ studying to become a **human coder**.
 		</td>
 		<td>
 			<a href="https://github.com/andreyvdl/42-fract-ol" target="_blank">
-				<img src="./images/fract-oln.png" alt="funny colors go brrrrrrrrrrrr" width="63px">
+				<img src="./images/fract-oln.png" alt="funny colors go brrrrrrrrrrrr" width="125px">
 			</a>
-			<br>
+		</td>
+		<td>
+			<a href="https://github.com/andreyvdl/42-FdF" target="_blank">
+				<img src="./images/fdfn.png" alt="Eu não sei matemática básica" width="125px">
+			</a>
+		</td>
+		<td>
 			<a href="https://github.com/andreyvdl/42-so_long" target="_blank">
-				<img src="./images/so_longm.png" alt="7 ou mais funções todo dia" width="63px">
+				<img src="./images/so_longm.png" alt="7 ou mais funções todo dia" width="125px">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/andreyvdl/42-minitalk" target="_blank">
 				<img src="./images/minitalkm.png" alt="... --- ..." width="125px">
 			</a>
+		</td>
+		<td>
+			<img src="./images/pipexn.png" alt="nanoshell" width="125px">
 		</td>
 	</tr>
 	<tr>
@@ -80,9 +89,10 @@ studying to become a **human coder**.
 			</a>
 		</td>
 		<td>
-			<img src="./images/cub3dn.png" alt="RIP AND TEAR UNTIL IS DONE" width="63px">
-			<br>
-			<img src="./images/minirtn.png" alt="WOW NICE GRAPHICS" width="63px">
+			<img src="./images/cub3dn.png" alt="RIP AND TEAR UNTIL IS DONE" width="125px">
+		</td>
+		<td>
+			<img src="./images/minirtn.png" alt="WOW NICE GRAPHICS" width="125px">
 		</td>
 	</tr>
 	<tr>
@@ -97,7 +107,8 @@ studying to become a **human coder**.
 		</td>
 		<td>
 			<img src="./images/webservn.png" alt="HTTPS://" width="125px">
-			<br>
+		</td>
+		<td>
 			<img src="./images/ft_ircn.png" alt="DISCORDO" width="125px">
 		</td>
 		<td>
@@ -105,13 +116,6 @@ studying to become a **human coder**.
 		</td>
 	</tr>
 </table>
-
-<a href="https://github.com/andreyvdl/Piscine-July2022" target="_blank">
-	<img src="./images/validaded3.svg" alt="projeto validado" width="50" height="50">
-	<img src="./images/bonus_hunter.svg" alt="caçadores de bonus" width="50" height="50">
-	<img src="./images/rich1.svg" alt="here comes the money" width="50" height="50">
-	<img src="./images/billgates1.svg" alt="todo programador é preguiçoso" width="50" height="50">
-</a>
 
 [comment]: <> (Things i know how to work)
 [comment]: <> (The color tells how much I know 🔴 low-mid, 🟡 mid, 🟢 mid-top)
