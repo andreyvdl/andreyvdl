@@ -18,38 +18,10 @@ studying to become a **human coder**.
 <a href=https://github.com/andreyvdl/42SP-Phase1 target=_blank>
 	<img src="./images/phase_onem.png" alt="MISSION CLEAR">
 </a>
+<a href=https://github.com/andreyvdl/42SP-Phase2 target=_blank>
+	<img src="./images/phase_twon.png" alt="CONGRATULATIONS">
+</a>
 <table>
-	<tr>
-		<td>
-			<img src="./images/phase_twon.png" alt="CONGRATULATIONS" width="175px">
-		</td>
-		<td>
-			<a href="https://github.com/andreyvdl/42-push_swap" target="_blank">
-				<img src="./images/push_swape.png" alt="joga pra cá, joga pra lá" width="125px">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/andreyvdl/Minishell" target="_blank">
-				<img src="./images/minishellm.png" alt="/dev/null$>" width="125px">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/andreyvdl/42-philosophers" target="_blank">
-				<img src="./images/philosophersm.png" alt="So solo che non so niente" width="125px">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/andreyvdl/42-NetPractice" target="_blank">
-				<img src="./images/netpracticen.png" alt="157.40.95.145" width="125px">
-			</a>
-		</td>
-		<td>
-			<img src="./images/cub3dn.png" alt="RIP AND TEAR UNTIL IS DONE" width="125px">
-		</td>
-		<td>
-			<img src="./images/minirtn.png" alt="WOW NICE GRAPHICS" width="125px">
-		</td>
-	</tr>
 	<tr>
 		<td>
 			<img src="./images/phase_threen.png" alt="$USER LEVEL 99 HP:$hp_cur/$hp_max MP:$mp_cur/$mp_max" width="175px">
