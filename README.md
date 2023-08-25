@@ -15,55 +15,10 @@ studying to become a **human coder**.
 
 #### I made the 🇧🇷 version of [MiniLibX Documentation](https://github.com/andreyvdl/MiniLibX_my_docs)<br>
 
+<a href=https://github.com/andreyvdl/42SP-Phase1 target=_blank>
+	<img src="./images/phase_onem.png" alt="MISSION CLEAR">
+</a>
 <table>
-	<tr>
-		<td>
-			<img src="./images/phase_onem.png" alt="MISSION CLEAR" width="175px">
-		</td>
-		<td>
-			<a href="https://github.com/andreyvdl/42-libft" target="_blank">
-				<img src="./images/libftm.png" alt="Silêncio na biblioteca 🤫" width="125px">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/andreyvdl/42-get-next-line" target="_blank">
-				<img src="./images/get_next_linem.png" alt="Raba eni" width="125px">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/andreyvdl/42-ft_printf" target="_blank">
-				<img src="./images/ft_printfe.png" alt="agora da pra usar printf" width="125px">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/andreyvdl/42-Born2BeRoot" target="_blank">
-				<img src="./images/born2berootm.png" alt="já da pra formatar o pc" width="125px">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/andreyvdl/42-fract-ol" target="_blank">
-				<img src="./images/fract-oln.png" alt="funny colors go brrrrrrrrrrrr" width="125px">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/andreyvdl/42-FdF" target="_blank">
-				<img src="./images/fdfn.png" alt="Eu não sei matemática básica" width="125px">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/andreyvdl/42-so_long" target="_blank">
-				<img src="./images/so_longm.png" alt="7 ou mais funções todo dia" width="125px">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/andreyvdl/42-minitalk" target="_blank">
-				<img src="./images/minitalkm.png" alt="... --- ..." width="125px">
-			</a>
-		</td>
-		<td>
-			<img src="./images/pipexn.png" alt="nanoshell" width="125px">
-		</td>
-	</tr>
 	<tr>
 		<td>
 			<img src="./images/phase_twon.png" alt="CONGRATULATIONS" width="175px">
