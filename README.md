@@ -22,7 +22,7 @@ studying to become a **human coder**.
 	<img src="./images/phase_twon.png" alt="CONGRATULATIONS">
 </a>
 <a href=https://github.com/andreyvdl/42SP-Phase3 target=_blank>
-	<img src="./images/phase_threen.png" alt="${user} LEVEL 99 HP:${hp_curr}/${hp_max} MP:${mp_curr}/${mp_max}">
+	<img src="./images/phase_threen.png" alt="${user} LVL ${level_curr} HP:${hp_curr}/${hp_max} SP:${sp_curr}/${sp_max}">
 </a>
 
 [comment]: <> (Things i know how to work)
