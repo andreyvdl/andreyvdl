@@ -21,28 +21,9 @@ studying to become a **human coder**.
 <a href=https://github.com/andreyvdl/42SP-Phase2 target=_blank>
 	<img src="./images/phase_twon.png" alt="CONGRATULATIONS">
 </a>
-<table>
-	<tr>
-		<td>
-			<img src="./images/phase_threen.png" alt="$USER LEVEL 99 HP:$hp_cur/$hp_max MP:$mp_cur/$mp_max" width="175px">
-		</td>
-		<td>
-			<img src="./images/cppn.png" alt="printf(%d, C++)" width="125px">
-		</td>
-		<td>
-			<img src="./images/inceptionn.png" alt="ng." width="125px">
-		</td>
-		<td>
-			<img src="./images/webservn.png" alt="HTTPS://" width="125px">
-		</td>
-		<td>
-			<img src="./images/ft_ircn.png" alt="DISCORDO" width="125px">
-		</td>
-		<td>
-			<img src="./images/ft_transcendencen.png" alt="I AM THE GOD OF CODE" width="125px">
-		</td>
-	</tr>
-</table>
+<a href=https://github.com/andreyvdl/42SP-Phase3 target=_blank>
+	<img src="./images/phase_threen.png" alt="${user} LEVEL 99 HP:${hp_curr}/${hp_max} MP:${mp_curr}/${mp_max}">
+</a>
 
 [comment]: <> (Things i know how to work)
 [comment]: <> (The color tells how much I know 🔴 low-mid, 🟡 mid, 🟢 mid-top)
