@@ -244,7 +244,7 @@ Plan to learn:
 
 ## 🧠 Others:
 <a href="https://github.com/andreyvdl/Sololearn" target="_blank">
-	<img src="./images/sololearn_logo.svg" alt="home alone" width="50" height="50">
+	Sololearn
 </a>
 <br>
 <br>
