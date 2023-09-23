@@ -131,7 +131,7 @@ studying to become a **human coder**.
 			<p>
 				Java
 				<br>
-				🔴
+				🔴 ⭐
 			</p>
 		</td>
 	</tr>
