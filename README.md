@@ -256,6 +256,3 @@ Plan to learn:
 	<img height="200" src="https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 	<br>
 </a>
-
-![snake gif](https://github.com/andreyvdl/andreyvdl/blob/output/github-contribution-grid-snake.svg)
-
