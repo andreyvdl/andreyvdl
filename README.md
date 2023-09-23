@@ -125,6 +125,15 @@ studying to become a **human coder**.
 				🔴
 			</p>
 		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="65" height="65">
+			<br>
+			<p>
+				Java
+				<br>
+				🔴
+			</p>
+		</td>
 	</tr>
 </table>
 
@@ -172,13 +181,6 @@ Plan to learn:
 			<br>
 			<p>
 				PHP
-			</p>
-		</td>
-		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="65" height="65">
-			<br>
-			<p>
-				Java
 			</p>
 		</td>
 		<td align="center">
