@@ -190,8 +190,6 @@ Plan to learn:
 				Kotlin
 			</p>
 		</td>
-	</tr>
-	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="65" height="65">
 			<br>
@@ -199,6 +197,8 @@ Plan to learn:
 				Ruby
 			</p>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" width="65" height="65">
 			<br>
