@@ -29,7 +29,7 @@ studying to become a **human coder**.
 [comment]: <> (The color tells how much I know 🔴 low-mid, 🟡 mid, 🟢 mid-top)
 [comment]: <> (The star tells if is something I like to use)
 
-## 🔰 Skills:
+## 🔰 Skills in programming:
 
 <table>
 	<tr>
