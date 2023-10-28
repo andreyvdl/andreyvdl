@@ -9,21 +9,30 @@ I'm a
 studying to become a **human coder**.
 <br>
 
+```c
+int main(void)
+{
+    srand(time(0x0));
+    while (me.alive)
+    {
+        eat(&me);
+        make_something(&me, rand());
+        sleep(&me);
+    }
+    return (EXIT_SUCCESS);
+}
+```
+
 [comment]: <> (My evolution on the 42 CV)
 
 ### 42 Badges 🏅
 
 #### I made the 🇧🇷 version of [MiniLibX Documentation](https://github.com/andreyvdl/MiniLibX_my_docs)<br>
 
-<a href=https://github.com/andreyvdl/42SP-Phase1 target=_blank>
-	<img src="./images/phase_onem.png" alt="MISSION CLEAR">
-</a>
-<a href=https://github.com/andreyvdl/42SP-Phase2 target=_blank>
-	<img src="./images/phase_twon.png" alt="CONGRATULATIONS">
-</a>
-<a href=https://github.com/andreyvdl/42SP-Phase3 target=_blank>
-	<img src="./images/phase_threen.png" alt="${user} LVL ${level_curr} HP:${hp_curr}/${hp_max} SP:${sp_curr}/${sp_max}">
-</a>
+
+<a href=https://github.com/andreyvdl/42SP-Phase1 target=_blank><img src="./images/phase_onem.png" alt="MISSION CLEAR"></a>
+<a href=https://github.com/andreyvdl/42SP-Phase2 target=_blank><img src="./images/phase_twon.png" alt="CONGRATULATIONS"></a>
+<a href=https://github.com/andreyvdl/42SP-Phase3 target=_blank>	<img src="./images/phase_threen.png" alt="${user} LVL ${level_curr} HP:${hp_curr}/${hp_max} SP:${sp_curr}/${sp_max}"></a>
 
 [comment]: <> (Things i know how to work)
 [comment]: <> (The color tells how much I know 🔴 low-mid, 🟡 mid, 🟢 mid-top)
