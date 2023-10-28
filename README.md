@@ -15,7 +15,6 @@ int main(void)
     srand(time(0x0));
     while (me.alive)
     {
-        dinner(&me);
         make_something(&me, rand());
         snooze(&me);
     }
