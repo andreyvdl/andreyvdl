@@ -15,9 +15,9 @@ int main(void)
     srand(time(0x0));
     while (me.alive)
     {
-        eat(&me);
+        dinner(&me);
         make_something(&me, rand());
-        sleep(&me);
+        snooze(&me);
     }
     return (EXIT_SUCCESS);
 }
