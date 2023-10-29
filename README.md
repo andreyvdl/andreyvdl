@@ -26,7 +26,7 @@ int main(void)
 
 
 <a href=https://github.com/andreyvdl/42SP-Phase1 target=_blank><img src="./images/phase_onem.png" alt="MISSION CLEAR"></a>
-<a href=https://github.com/andreyvdl/42SP-Phase2 target=_blank><img src="./images/phase_twon.png" alt="CONGRATULATIONS"></a>
+<a href=https://github.com/andreyvdl/42SP-Phase2 target=_blank><img src="./images/phase_twom.png" alt="CONGRATULATIONS"></a>
 <a href=https://github.com/andreyvdl/42SP-Phase3 target=_blank>	<img src="./images/phase_threen.png" alt="${user} LVL ${level_curr} HP:${hp_curr}/${hp_max} SP:${sp_curr}/${sp_max}"></a>
 
 [comment]: <> (Things i know how to work)
