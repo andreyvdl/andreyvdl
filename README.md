@@ -45,7 +45,7 @@ int main(void)
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="65" height="65">
 			<br>
-			<p>Clang<br>🟢 ⭐</p>
+			<p>C<br>🟢 ⭐</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="65" height="65">
