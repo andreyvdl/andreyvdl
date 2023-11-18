@@ -177,6 +177,33 @@ Plan to learn:
 			<br>
 			<p>Perl</p>
 		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="65" height="65">
+			<br>
+			<p>LaTeX</p>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" width="65" height="65"/>
+			<br>
+			<p>Godot</p>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original-wordmark.svg" width="65" height="65"/>
+			<br>
+			<p>Crystal</p>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original-wordmark.svg" width="65" height="65"/>
+			<br>
+			<p>Zig</p>
+		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="65" height="65"/>
+			<br>
+			<p>Rust</p>
+		</td>
 	</tr>
 </table>
 
