@@ -50,7 +50,7 @@ int main(void)
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="65" height="65">
 			<br>
-			<p>HTML5<br>🔴 ⭐</p>
+			<p>HTML5<br>🔴</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="65" height="65">
@@ -77,7 +77,7 @@ int main(void)
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="65" height="65">
 			<br>
-			<p>GOlang<br>🔴 ⭐</p>
+			<p>GOlang<br>🔴</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="65" height="65">
