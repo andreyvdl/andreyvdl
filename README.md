@@ -33,7 +33,7 @@ int main(void)
 [comment]: <> (The color tells how much I know 🔴 low-mid, 🟡 mid, 🟢 mid-top)
 [comment]: <> (The star tells if is something I like to use)
 
-<h2>🔰 Skills in programming:</h2>
+<h2>🔰 Skills:</h2>
 
 <table>
 	<tr>
@@ -62,6 +62,8 @@ int main(void)
 			<br>
 			<p>Javascript<br>🔴</p>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="65" height="65">
 			<br>
@@ -77,8 +79,6 @@ int main(void)
 			<br>
 			<p>GOlang<br>🔴 ⭐</p>
 		</td>
-	</tr>
-	<tr>	
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="65" height="65">
 			<br>
@@ -89,6 +89,8 @@ int main(void)
 			<br>
 			<p>Linux/Debian<br>🔴</p>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="65" height="65">
 			<br>
@@ -131,6 +133,8 @@ Plan to learn:
 			<br>
 			<p>R lang</p>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="65" height="65">
 			<br>
@@ -146,8 +150,6 @@ Plan to learn:
 			<br>
 			<p>Ruby</p>
 		</td>
-	</tr>
-	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" width="65" height="65">
 			<br>
@@ -158,6 +160,8 @@ Plan to learn:
 			<br>
 			<p>NextJS</p>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65">
 			<br>
@@ -181,4 +185,7 @@ Plan to learn:
 <br>
 <br>
 
-<a href="https://github.com/andreyvdl"><img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark"/><img height="200" src="https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/andreyvdl">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark"/><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+</a>
