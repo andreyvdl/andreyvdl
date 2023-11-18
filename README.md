@@ -97,6 +97,11 @@ int main(void)
 			<p>Java<br>🔴 ⭐</p>
 		</td>
 		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="65" height="65">
+			<br>
+			<p>CPlusPlus<br>🔴 ⭐</p>
+		</td>
+		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="65" height="65">
 			<br>
 			<p>Lua<br>🔴</p>
@@ -119,11 +124,6 @@ Plan to learn:
 			<p>Python3</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="65" height="65">
-			<br>
-			<p>CPlusPlus</p>
-		</td>
-		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65" height="65">
 			<br>
 			<p>SQL Standards</p>
@@ -133,13 +133,13 @@ Plan to learn:
 			<br>
 			<p>R lang</p>
 		</td>
-	</tr>
-	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="65" height="65">
 			<br>
 			<p>PHP</p>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="65" height="65">
 			<br>
@@ -160,13 +160,13 @@ Plan to learn:
 			<br>
 			<p>NextJS</p>
 		</td>
-	</tr>
-	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65">
 			<br>
 			<p>React</p>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="65" height="65">
 			<br>
