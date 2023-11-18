@@ -94,6 +94,11 @@ int main(void)
 			<br>
 			<p>Java<br>🔴 ⭐</p>
 		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="65" height="65">
+			<br>
+			<p>Lua<br>🔴</p>
+		</td>
 	</tr>
 </table>
 
@@ -162,11 +167,6 @@ Plan to learn:
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="65" height="65">
 			<br>
 			<p>Redux</p>
-		</td>
-		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="65" height="65">
-			<br>
-			<p>Lua</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="65" height="65">
