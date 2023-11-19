@@ -192,13 +192,13 @@ Plan to learn:
 			<br>
 			<p>Crystal</p>
 		</td>
-	</tr>
-	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original-wordmark.svg" width="65" height="65"/>
 			<br>
 			<p>Zig</p>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="65" height="65"/>
 			<br>
