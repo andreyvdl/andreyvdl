@@ -106,6 +106,11 @@ int main(void)
 			<br>
 			<p>Lua<br>🔴</p>
 		</td>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="65" height="65">
+			<br>
+			<p>Ruby<br>🔴</p>
+		</td>
 	</tr>
 </table>
 
@@ -146,11 +151,6 @@ Plan to learn:
 			<p>Kotlin</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="65" height="65">
-			<br>
-			<p>Ruby</p>
-		</td>
-		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" width="65" height="65">
 			<br>
 			<p>AngularJS</p>
@@ -165,13 +165,13 @@ Plan to learn:
 			<br>
 			<p>React</p>
 		</td>
-	</tr>
-	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="65" height="65">
 			<br>
 			<p>Redux</p>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="65" height="65">
 			<br>
