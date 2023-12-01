@@ -17,6 +17,21 @@ int main(void)
     return (EXIT_SUCCESS);
 }
 ```
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/andreyvdl"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark" alt="top languages"><br>
+		</td>
+		<td>
+			<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/656a5a855145316d25a42db7?variant=dark" alt="roadmap.sh"></a>
+			<br>
+			<a href="https://github.com/andreyvdl"><img src="https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="github status"></a>
+			<br>
+			<br>
+		</td>
+	</tr>
+</table>
+
 
 [comment]: <> (My evolution on the 42 CV)
 
@@ -206,13 +221,3 @@ Plan to learn:
 		</td>
 	</tr>
 </table>
-
-<h2>🧠 Others:</h2>
-<a href="https://github.com/andreyvdl/Sololearn" target="_blank">Sololearn</a>
-<br>
-<br>
-
-<a href="https://github.com/andreyvdl">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark"/><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-</a>
