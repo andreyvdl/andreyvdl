@@ -20,14 +20,19 @@ int main(void)
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/andreyvdl"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark" alt="top languages"><br>
+			<a href="https://github.com/andreyvdl/MiniLibX_my_docs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=MiniLibX_my_docs" alt="mlx doc"></a><br>
+			<a href="https://github.com/andreyvdl/42-Born2BeRoot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=42-Born2BeRoot" alt="My first VM"></a><br>
+			<a href="https://github.com/andreyvdl/Mimo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=Mimo" alt="learning1"></a><br>
+			<a href="https://github.com/andreyvdl/Andreys_QA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=Andreys_QA" alt="people say im good in QA"></a><br>
+			<a href="https://github.com/andreyvdl/42-minitalk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=42-minitalk" alt="bitwise is fun"></a><br>
+			<a href="https://github.com/andreyvdl/Bookmarks-md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=Bookmarks-md" alt="READ PROGRAMMER, READ!"></a><br>
+			<a href="https://github.com/andreyvdl/Minishell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=Minishell" alt="Highway to hell"></a><br>
 		</td>
 		<td>
 			<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/656a5a855145316d25a42db7?variant=dark" alt="roadmap.sh"></a>
 			<br>
-			<a href="https://github.com/andreyvdl"><img src="https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="github status"></a>
-			<br>
-			<br>
+			<a href="https://github.com/andreyvdl"><img src="https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="github status"></a><br>
+			<a href="https://github.com/andreyvdl"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark" alt="top languages"></a>
 		</td>
 	</tr>
 </table>
