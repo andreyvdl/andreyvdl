@@ -5,6 +5,11 @@ I'm Andrey & welcome to my github page 🙂.
 I'm a <a href="https://profile.intra.42.fr/users/adantas-" target="_blank">cadet at 42sp 👨‍🚀🚀👽</a> studying to become a **human coder**.
 <br>
 
+<a href="https://github.com/andreyvdl"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark" alt="top languages"></a>
+<a href="https://github.com/andreyvdl"><img src="https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="github status"></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/656a5a855145316d25a42db7?variant=dark" alt="roadmap.sh"></a>
+<br>
+
 ```c
 int main(void)
 {
@@ -28,9 +33,6 @@ int main(void)
 				<a href="https://github.com/andreyvdl/Andreys_QA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=Andreys_QA" alt="people say im good in QA"></a><br>
 				<a href="https://github.com/andreyvdl/42-minitalk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=42-minitalk" alt="bitwise is fun"></a><br>
 				<a href="https://github.com/andreyvdl/Bookmarks-md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=Bookmarks-md" alt="READ PROGRAMMER, READ!"></a><br>
-				<a href="https://github.com/andreyvdl/Minishell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=Minishell" alt="Highway to hell"></a><br>
-				<a href="https://github.com/andreyvdl/42-philosophers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=42-philosophers" alt="threads"></a><br>
-				<a href="https://github.com/andreyvdl/42-Cub3D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=42-Cub3D" alt="DOOMlike"></a><br>
 			</td>
 			<td>
 				<a href="https://github.com/andreyvdl/42-fract-ol"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=42-fract-ol" alt="fractals"></a><br>
@@ -39,14 +41,13 @@ int main(void)
 				<a href="https://github.com/andreyvdl/MyJavaRepo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=MyJavaRepo" alt="learning java"></a><br>
 				<a href="https://github.com/andreyvdl/MyLuaRepo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=MyLuaRepo" alt="brazilian lua"></a><br>
 				<a href="https://github.com/andreyvdl/MyRubyRepo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=MyRubyRepo" alt="yes you can buy things with ruby"></a><br>
-				<a href="https://github.com/andreyvdl/nvim-config.lua"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=nvim-config.lua" alt="my nvim config"></a><br>
-				<a href="https://github.com/andreyvdl/42-CPP_modules"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=42-CPP_modules" alt="C += 1"></a><br>
 			</td>
 			<td>
-				<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/656a5a855145316d25a42db7?variant=dark" alt="roadmap.sh"></a>
-				<br>
-				<a href="https://github.com/andreyvdl"><img src="https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="github status"></a><br>
-				<a href="https://github.com/andreyvdl"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark" alt="top languages"></a>
+				<a href="https://github.com/andreyvdl/42-Cub3D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=42-Cub3D" alt="DOOMlike"></a><br>
+				<a href="https://github.com/andreyvdl/42-CPP_modules"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=42-CPP_modules" alt="C += 1"></a><br>
+				<a href="https://github.com/andreyvdl/42-philosophers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=42-philosophers" alt="threads"></a><br>
+				<a href="https://github.com/andreyvdl/nvim-config.lua"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=nvim-config.lua" alt="my nvim config"></a><br>
+				<a href="https://github.com/andreyvdl/Minishell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andreyvdl&repo=Minishell" alt="Highway to hell"></a><br>
 			</td>
 		</tr>
 	</table>
