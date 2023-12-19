@@ -135,7 +135,7 @@ int main(void)
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="65" height="65">
 			<br>
-			<p>C++<br>🔴 ⭐</p>
+			<p>C++<br>🟡 ⭐</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="65" height="65">
