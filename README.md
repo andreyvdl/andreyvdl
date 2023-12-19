@@ -86,17 +86,17 @@ int main(void)
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="65" height="65">
 			<br>
-			<p>HTML5<br>🔴</p>
+			<p>HTML<br>🔴</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="65" height="65">
 			<br>
-			<p>CSS3<br>🔴</p>
+			<p>CSS<br>🔴</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="65" height="65">
 			<br>
-			<p>Javascript<br>🔴</p>
+			<p>JavaScript<br>🔴</p>
 		</td>
 	</tr>
 	<tr>
@@ -113,12 +113,12 @@ int main(void)
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="65" height="65">
 			<br>
-			<p>GOlang<br>🔴</p>
+			<p>GO<br>🔴</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="65" height="65">
 			<br>
-			<p>VSCode<br>🟡 ⭐</p>
+			<p>VS Code<br>🟡 ⭐</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" width="65" height="65">
@@ -135,7 +135,7 @@ int main(void)
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="65" height="65">
 			<br>
-			<p>CPlusPlus<br>🔴 ⭐</p>
+			<p>C++<br>🔴 ⭐</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="65" height="65">
