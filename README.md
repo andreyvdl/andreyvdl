@@ -84,31 +84,9 @@ int main(void)
 			<p>C<br>🟢 ⭐</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="65" height="65">
-			<br>
-			<p>HTML<br>🔴</p>
-		</td>
-		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="65" height="65">
-			<br>
-			<p>CSS<br>🔴</p>
-		</td>
-		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="65" height="65">
 			<br>
 			<p>JavaScript<br>🔴</p>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="65" height="65">
-			<br>
-			<p>Photoshop<br>🔴</p>
-		</td>
-		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="65" height="65">
-			<br>
-			<p>VIM<br>🟡</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="65" height="65">
@@ -116,22 +94,12 @@ int main(void)
 			<p>GO<br>🔴</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="65" height="65">
-			<br>
-			<p>VS Code<br>🟡 ⭐</p>
-		</td>
-		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" width="65" height="65">
-			<br>
-			<p>Linux/Debian<br>🔴</p>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="65" height="65">
 			<br>
 			<p>Java<br>🔴 ⭐</p>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="65" height="65">
 			<br>
