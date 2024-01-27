@@ -74,7 +74,7 @@ int main(void)
 <table>
 	<tr>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/gnubash/#4EAA25" width="65" height="65">
 			<br>
 			<p>BASH<br>🟡 ⭐</p>
 		</td>
