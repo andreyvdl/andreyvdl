@@ -293,4 +293,31 @@ Plan to learn:
 			<p>PowerShell</p>
 		</td>
   </tr>
+  <tr>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/purescript/14161a/14161a" width="65" height="65"/>
+			<br>
+			<p>PureScript</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/reason/dd4b39/dd4b39" width="65" height="65"/>
+			<br>
+			<p>Reason</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/red/b32629/b32629" width="65" height="65"/>
+			<br>
+			<p>Red</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/scala/dc322f/dc322f" width="65" height="65"/>
+			<br>
+			<p>Scala</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/swift/f05138/f05138" width="65" height="65"/>
+			<br>
+			<p>Swift</p>
+		</td>
+  </tr>
 </table>
