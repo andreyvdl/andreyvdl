@@ -103,7 +103,7 @@ int main(void)
 		<td align="center">
 			<img src="https://cdn.simpleicons.org/cplusplus/00599c/00599c" width="65" height="65">
 			<br>
-			<p>C++<br>🟡 ⭐</p>
+			<p>C++<br>🟢 ⭐</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.simpleicons.org/lua/2c2d72/2c2d72" width="65" height="65">
@@ -123,7 +123,7 @@ int main(void)
     <td align="center">
 			<img src="https://cdn.simpleicons.org/typescript/f7df1e/f7df1e" width="65" height="65">
 			<br>
-			<p>TypeScript<br>🔴</p>
+			<p>TypeScript<br>🔴 ⭐</p>
 		</td>
   </tr>
   <tr>
