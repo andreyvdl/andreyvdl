@@ -74,22 +74,23 @@ int main(void)
 <table>
 	<tr>
 		<td align="center">
-			<img src="https://cdn.simpleicons.org/gnubash/#4EAA25" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/gnubash/4eaa25/4eaa25" width="65" height="65">
 			<br>
 			<p>BASH<br>🟡 ⭐</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/c/a8b9cc/a8b9cc" width="65" height="65">
 			<br>
 			<p>C<br>🟢 ⭐</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/javascript/3178c6/3178c6" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/typescript/f7df1e/f7df1e" width="65" height="65">
 			<br>
-			<p>JavaScript<br>🔴</p>
+			<p>[TJ]Script<br>🔴</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/go/00add8/00add8" width="65" height="65">
 			<br>
 			<p>GO<br>🔴</p>
 		</td>
@@ -101,17 +102,17 @@ int main(void)
 	</tr>
 	<tr>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/cplusplus/00599c/00599c" width="65" height="65">
 			<br>
 			<p>C++<br>🟡 ⭐</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/lua/2c2d72/2c2d72" width="65" height="65">
 			<br>
 			<p>Lua<br>🔴</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/ruby/cc342d/cc342d" width="65" height="65">
 			<br>
 			<p>Ruby<br>🔴</p>
 		</td>
