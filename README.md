@@ -133,22 +133,22 @@ Plan to learn:
 <table>
 	<tr>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="65" height="65"/>
+			<img src="https://cdn.simpleicons.org/rust/0/0" width="65" height="65"/>
 			<br>
 			<p>Rust</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/csharp/512bd4/512bd4" width="65" height="65">
 			<br>
 			<p>CSharp</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/python/" width="65" height="65">
 			<br>
 			<p>Python3</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/r/276dc3/276dc3" width="65" height="65">
 			<br>
 			<p>R lang</p>
 		</td>
