@@ -85,9 +85,8 @@ int main(void)
 		</td>
 		<td align="center">
 			<img src="https://cdn.simpleicons.org/javascript/3178c6/3178c6" width="65" height="65">
-			<img src="https://cdn.simpleicons.org/typescript/f7df1e/f7df1e" width="65" height="65">
 			<br>
-			<p>[TJ]Script<br>🔴</p>
+			<p>JavaScript<br>🔴</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.simpleicons.org/go/00add8/00add8" width="65" height="65">
@@ -120,6 +119,11 @@ int main(void)
 			<img src="https://cdn.simpleicons.org/postgresql/4169e1/4169e1" width="65" height="65">
 			<br>
 			<p>SQL<br>🔴</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/typescript/f7df1e/f7df1e" width="65" height="65">
+			<br>
+			<p>TypeScript<br>🔴</p>
 		</td>
 	</tr>
 </table>
