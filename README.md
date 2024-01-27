@@ -140,7 +140,7 @@ Plan to learn:
 		<td align="center">
 			<img src="https://cdn.simpleicons.org/csharp/512bd4/512bd4" width="65" height="65">
 			<br>
-			<p>CSharp</p>
+			<p>C#</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.simpleicons.org/python/" width="65" height="65">
@@ -237,6 +237,33 @@ Plan to learn:
 			<img src="https://cdn.simpleicons.org/delphi/e62431/e62431" width="65" height="65"/>
 			<br>
 			<p>Delphi</p>
+		</td>
+  </tr>
+  <tr>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/elm/1293d8/1293d8" width="65" height="65"/>
+			<br>
+			<p>ELM</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/erlang/a90533/a90533" width="65" height="65"/>
+			<br>
+			<p>Erlang</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/fsharp/378bba/378bba" width="65" height="65"/>
+			<br>
+			<p>F#</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/fortran/734f96/734f96" width="65" height="65"/>
+			<br>
+			<p>Fortran</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/apachegroovy/4298b8/4298b8" width="65" height="65"/>
+			<br>
+			<p>Groovy</p>
 		</td>
   </tr>
 </table>
