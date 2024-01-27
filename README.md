@@ -125,6 +125,13 @@ int main(void)
 			<br>
 			<p>TypeScript<br>🔴</p>
 		</td>
+  </tr>
+  <tr>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/v/5d87bf/5d87bf" width="65" height="65"/>
+			<br>
+			<p>V<br>🔴</p>
+		</td>
 	</tr>
 </table>
 
@@ -318,6 +325,23 @@ Plan to learn:
 			<img src="https://cdn.simpleicons.org/swift/f05138/f05138" width="65" height="65"/>
 			<br>
 			<p>Swift</p>
+		</td>
+  </tr>
+  <tr>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/terraform/844fba/844fba" width="65" height="65"/>
+			<br>
+			<p>TerraForm</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/visualbasic/512bd4/512bd4" width="65" height="65"/>
+			<br>
+			<p>Visual Basic</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/webassembly/654ff0/654ff0" width="65" height="65"/>
+			<br>
+			<p>WebAssembly</p>
 		</td>
   </tr>
 </table>
