@@ -266,4 +266,31 @@ Plan to learn:
 			<p>Groovy</p>
 		</td>
   </tr>
+  <tr>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/haskell/5d4f85/5d4f85" width="65" height="65"/>
+			<br>
+			<p>Haskell</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/julia/9558b2/9558b2" width="65" height="65"/>
+			<br>
+			<p>Julia</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/nim/ffe953/ffe953" width="65" height="65"/>
+			<br>
+			<p>Nim</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/ocaml/ec6813/ec6813" width="65" height="65"/>
+			<br>
+			<p>OCaml</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/powershell/5391fe/5391fe" width="65" height="65"/>
+			<br>
+			<p>PowerShell</p>
+		</td>
+  </tr>
 </table>
