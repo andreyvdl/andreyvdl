@@ -118,7 +118,7 @@ int main(void)
     <td align="center">
 			<img src="https://cdn.simpleicons.org/postgresql/4169e1/4169e1" width="65" height="65">
 			<br>
-			<p>SQL<br>🔴</p>
+			<p>SQL<br>🔴 ⭐</p>
 		</td>
     <td align="center">
 			<img src="https://cdn.simpleicons.org/typescript/f7df1e/f7df1e" width="65" height="65">
