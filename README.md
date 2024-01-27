@@ -212,4 +212,31 @@ Plan to learn:
 			<p>Zig</p>
 		</td>
 	</tr>
+  <tr>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/clojure/5881d8/5881d8" width="65" height="65"/>
+			<br>
+			<p>Clojure</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/coffeescript/2f2625/2f2625" width="65" height="65"/>
+			<br>
+			<p>CoffeeScript</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/d/b03931/b03931" width="65" height="65"/>
+			<br>
+			<p>D</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/dart/0175c2/0175c2" width="65" height="65"/>
+			<br>
+			<p>Dart</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/delphi/e62431/e62431" width="65" height="65"/>
+			<br>
+			<p>Delphi</p>
+		</td>
+  </tr>
 </table>
