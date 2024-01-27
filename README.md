@@ -116,6 +116,11 @@ int main(void)
 			<br>
 			<p>Ruby<br>🔴</p>
 		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/postgresql/4169e1/4169e1" width="65" height="65">
+			<br>
+			<p>SQL<br>🔴</p>
+		</td>
 	</tr>
 </table>
 
@@ -123,6 +128,11 @@ Plan to learn:
 
 <table>
 	<tr>
+		<td align="center">
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="65" height="65"/>
+			<br>
+			<p>Rust</p>
+		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="65" height="65">
 			<br>
@@ -132,11 +142,6 @@ Plan to learn:
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="65" height="65">
 			<br>
 			<p>Python3</p>
-		</td>
-		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65" height="65">
-			<br>
-			<p>SQL Standards</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="65" height="65">
@@ -201,13 +206,6 @@ Plan to learn:
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original-wordmark.svg" width="65" height="65"/>
 			<br>
 			<p>Zig</p>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="65" height="65"/>
-			<br>
-			<p>Rust</p>
 		</td>
 	</tr>
 </table>
