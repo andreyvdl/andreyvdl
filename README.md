@@ -153,61 +153,61 @@ Plan to learn:
 			<p>R lang</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/php/777bb4/777bb4" width="65" height="65">
 			<br>
 			<p>PHP</p>
 		</td>
 	</tr>
 	<tr>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/kotlin/7f52ff/7f52ff" width="65" height="65">
 			<br>
 			<p>Kotlin</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/angular/dd1100/dd1100" width="65" height="65">
 			<br>
 			<p>AngularJS</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/nextdotjs/0/0" width="65" height="65">
 			<br>
 			<p>NextJS</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/react/61dafb/61dafb" width="65" height="65">
 			<br>
 			<p>React</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/redux/764abc/764abc" width="65" height="65">
 			<br>
 			<p>Redux</p>
 		</td>
 	</tr>
 	<tr>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/perl/39457e/39457e" width="65" height="65">
 			<br>
 			<p>Perl</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="65" height="65">
+			<img src="https://cdn.simpleicons.org/latex/008080/008080" width="65" height="65">
 			<br>
 			<p>LaTeX</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" width="65" height="65"/>
+			<img src="https://cdn.simpleicons.org/godotengine/478cbf/478cbf" width="65" height="65"/>
 			<br>
 			<p>Godot</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original-wordmark.svg" width="65" height="65"/>
+			<img src="https://cdn.simpleicons.org/crystal/0/0" width="65" height="65"/>
 			<br>
 			<p>Crystal</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original-wordmark.svg" width="65" height="65"/>
+			<img src="https://cdn.simpleicons.org/zig/f7a41d/f7a41d" width="65" height="65"/>
 			<br>
 			<p>Zig</p>
 		</td>
