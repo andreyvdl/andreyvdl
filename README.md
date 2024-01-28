@@ -343,5 +343,10 @@ Plan to learn:
 			<br>
 			<p>WebAssembly</p>
 		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/mermaid/ff3670/ff3670" width="65" height="65"/>
+			<br>
+			<p>Mermaid</p>
+		</td>
   </tr>
 </table>
