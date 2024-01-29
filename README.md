@@ -56,20 +56,19 @@ int main(void)
 
 [comment]: <> (My evolution on the 42 CV)
 
-<h3>42 Badges 🏅</h3>
+### 42 Badges 🏅
 
-<h4>I made the 🇧🇷 version of <a href="https://github.com/andreyvdl/MiniLibX_my_docs" target="_blank">MiniLibX Documentation</a></h4>
+#### I made the 🇧🇷 version of [MiniLibX Documentation](https://github.com/andreyvdl/MiniLibX_my_docs)
 
-
-<a href=https://github.com/andreyvdl/42SP-Phase1 target=_blank><img src="./images/phase_onem.png" alt="MISSION CLEAR"></a>
-<a href=https://github.com/andreyvdl/42SP-Phase2 target=_blank><img src="./images/phase_twom.png" alt="CONGRATULATIONS"></a>
-<a href=https://github.com/andreyvdl/42SP-Phase3 target=_blank>	<img src="./images/phase_threen.png" alt="${user} LVL ${level_curr} HP:${hp_curr}/${hp_max} SP:${sp_curr}/${sp_max}"></a>
+[![MISSION CLAER](./images/phase_onem.png)](https://github.com/andreyvdl/42SP-Phase1)
+[![CONGRATULATIONS](./images/phase_twom.png)](https://github.com/andreyvdl/42SP-Phase2)
+[![${user} LVL ${level_curr} HP:${hp_curr}/${hp_max} SP:${sp_curr}/${sp_max}](./images/phase_threen.png)](https://github.com/andreyvdl/42SP-Phase3)
 
 [comment]: <> (Things i know how to work)
 [comment]: <> (The color tells how much I know 🔴 low-mid, 🟡 mid, 🟢 mid-top)
 [comment]: <> (The star tells if is something I like to use)
 
-<h2>🔰 Skills:</h2>
+## 🔰 Skills:
 
 <table>
 	<tr>
