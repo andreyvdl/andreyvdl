@@ -306,11 +306,6 @@ Plan to learn:
 			<p>PureScript</p>
 		</td>
     <td align="center">
-			<img src="https://cdn.simpleicons.org/reason/dd4b39/dd4b39" width="65" height="65"/>
-			<br>
-			<p>Reason</p>
-		</td>
-    <td align="center">
 			<img src="https://cdn.simpleicons.org/red/b32629/b32629" width="65" height="65"/>
 			<br>
 			<p>Red</p>
@@ -325,13 +320,13 @@ Plan to learn:
 			<br>
 			<p>Swift</p>
 		</td>
-  </tr>
-  <tr>
     <td align="center">
 			<img src="https://cdn.simpleicons.org/terraform/844fba/844fba" width="65" height="65"/>
 			<br>
 			<p>TerraForm</p>
 		</td>
+  </tr>
+  <tr>
     <td align="center">
 			<img src="https://cdn.simpleicons.org/visualbasic/512bd4/512bd4" width="65" height="65"/>
 			<br>
