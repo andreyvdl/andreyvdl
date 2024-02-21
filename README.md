@@ -262,9 +262,9 @@ Plan to learn:
 			<p>F#</p>
 		</td>
     <td align="center">
-			<img src="https://cdn.simpleicons.org/fortran/734f96/734f96" width="65" height="65"/>
+			<img src="https://cdn.simpleicons.org/mermaid/ff3670/ff3670" width="65" height="65"/>
 			<br>
-			<p>Fortran</p>
+			<p>Mermaid</p>
 		</td>
     <td align="center">
 			<img src="https://cdn.simpleicons.org/apachegroovy/4298b8/4298b8" width="65" height="65"/>
@@ -336,11 +336,6 @@ Plan to learn:
 			<img src="https://cdn.simpleicons.org/webassembly/654ff0/654ff0" width="65" height="65"/>
 			<br>
 			<p>WebAssembly</p>
-		</td>
-    <td align="center">
-			<img src="https://cdn.simpleicons.org/mermaid/ff3670/ff3670" width="65" height="65"/>
-			<br>
-			<p>Mermaid</p>
 		</td>
   </tr>
 </table>
