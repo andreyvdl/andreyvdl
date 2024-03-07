@@ -131,6 +131,11 @@ int main(void)
 			<br>
 			<p>V<br>🔴</p>
 		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/mermaid/ff3670/ff3670" width="65" height="65"/>
+			<br>
+			<p>Mermaid</p>
+		</td>
 	</tr>
 </table>
 
@@ -262,14 +267,14 @@ Plan to learn:
 			<p>F#</p>
 		</td>
     <td align="center">
-			<img src="https://cdn.simpleicons.org/mermaid/ff3670/ff3670" width="65" height="65"/>
-			<br>
-			<p>Mermaid</p>
-		</td>
-    <td align="center">
 			<img src="https://cdn.simpleicons.org/apachegroovy/4298b8/4298b8" width="65" height="65"/>
 			<br>
 			<p>Groovy</p>
+		</td>
+    <td align="center">
+			<img src="https://cdn.simpleicons.org/webassembly/654ff0/654ff0" width="65" height="65"/>
+			<br>
+			<p>WebAssembly</p>
 		</td>
   </tr>
   <tr>
@@ -331,11 +336,6 @@ Plan to learn:
 			<img src="https://cdn.simpleicons.org/visualbasic/512bd4/512bd4" width="65" height="65"/>
 			<br>
 			<p>Visual Basic</p>
-		</td>
-    <td align="center">
-			<img src="https://cdn.simpleicons.org/webassembly/654ff0/654ff0" width="65" height="65"/>
-			<br>
-			<p>WebAssembly</p>
 		</td>
   </tr>
 </table>
