@@ -134,7 +134,7 @@ int main(void)
     <td align="center">
 			<img src="https://cdn.simpleicons.org/mermaid/ff3670/ff3670" width="65" height="65"/>
 			<br>
-			<p>Mermaid</p>
+			<p>Mermaid<br>🔴</p>
 		</td>
 	</tr>
 </table>
