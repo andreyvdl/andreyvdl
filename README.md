@@ -245,9 +245,9 @@ Plan to learn:
 			<p>Dart</p>
 		</td>
     <td align="center">
-			<img src="https://cdn.simpleicons.org/delphi/e62431/e62431" width="65" height="65"/>
+			<img src="https://cdn.simpleicons.org/visualbasic/512bd4/512bd4" width="65" height="65"/>
 			<br>
-			<p>Delphi</p>
+			<p>Visual Basic</p>
 		</td>
   </tr>
   <tr>
@@ -329,13 +329,6 @@ Plan to learn:
 			<img src="https://cdn.simpleicons.org/terraform/844fba/844fba" width="65" height="65"/>
 			<br>
 			<p>TerraForm</p>
-		</td>
-  </tr>
-  <tr>
-    <td align="center">
-			<img src="https://cdn.simpleicons.org/visualbasic/512bd4/512bd4" width="65" height="65"/>
-			<br>
-			<p>Visual Basic</p>
 		</td>
   </tr>
 </table>
