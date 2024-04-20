@@ -90,7 +90,7 @@ int main(void)
 		<td align="center">
 			<img src="https://cdn.simpleicons.org/go/00add8/00add8" width="65" height="65">
 			<br>
-			<p>GO<br>🔴</p>
+			<p>GO<br>🔴 ⭐</p>
 		</td>
 		<td align="center">
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="65" height="65">
@@ -139,7 +139,7 @@ int main(void)
 		<td align="center">
 			<img src="https://cdn.simpleicons.org/theodinproject/1e5085/1e5085" width="65" height="65"/>
 			<br>
-			<p>Odin<br>🔴</p>
+			<p>Odin<br>🔴 ⭐</p>
 	</tr>
 </table>
 
