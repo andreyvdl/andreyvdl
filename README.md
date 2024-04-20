@@ -126,16 +126,20 @@ int main(void)
 		</td>
   </tr>
   <tr>
-    <td align="center">
+    	<td align="center">
 			<img src="https://cdn.simpleicons.org/v/5d87bf/5d87bf" width="65" height="65"/>
 			<br>
 			<p>V<br>🔴</p>
 		</td>
-    <td align="center">
+    	<td align="center">
 			<img src="https://cdn.simpleicons.org/mermaid/ff3670/ff3670" width="65" height="65"/>
 			<br>
 			<p>Mermaid<br>🔴</p>
 		</td>
+		<td align="center">
+			<img src="https://cdn.simpleicons.org/theodinproject/1e5085/1e5085" width="65" height="65"/>
+			<br>
+			<p>Odin<br>🔴</p>
 	</tr>
 </table>
 
