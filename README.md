@@ -39,78 +39,18 @@ int main(void)
 
 ## 🔰 Skills:
 
-<table>
-	<tr>
-		<td align="center">
-			<img src="https://cdn.simpleicons.org/gnubash/4eaa25/4eaa25" width="65" height="65">
-			<br>
-			<p>BASH<br>🟡 ⭐</p>
-		</td>
-		<td align="center">
-			<img src="https://cdn.simpleicons.org/c/a8b9cc/a8b9cc" width="65" height="65">
-			<br>
-			<p>C<br>🟢 ⭐</p>
-		</td>
-		<td align="center">
-			<img src="https://cdn.simpleicons.org/javascript/3178c6/3178c6" width="65" height="65">
-			<br>
-			<p>JavaScript<br>🔴</p>
-		</td>
-		<td align="center">
-			<img src="https://cdn.simpleicons.org/go/00add8/00add8" width="65" height="65">
-			<br>
-			<p>GO<br>🔴 ⭐</p>
-		</td>
-		<td align="center">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="65" height="65">
-			<br>
-			<p>Java<br>🔴 ⭐</p>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<img src="https://cdn.simpleicons.org/cplusplus/00599c/00599c" width="65" height="65">
-			<br>
-			<p>C++<br>🟢 ⭐</p>
-		</td>
-		<td align="center">
-			<img src="https://cdn.simpleicons.org/lua/2c2d72/2c2d72" width="65" height="65">
-			<br>
-			<p>Lua<br>🔴</p>
-		</td>
-		<td align="center">
-			<img src="https://cdn.simpleicons.org/ruby/cc342d/cc342d" width="65" height="65">
-			<br>
-			<p>Ruby<br>🔴</p>
-		</td>
-    <td align="center">
-			<img src="https://cdn.simpleicons.org/postgresql/4169e1/4169e1" width="65" height="65">
-			<br>
-			<p>SQL<br>🔴 ⭐</p>
-		</td>
-    <td align="center">
-			<img src="https://cdn.simpleicons.org/typescript/f7df1e/f7df1e" width="65" height="65">
-			<br>
-			<p>TypeScript<br>🔴 ⭐</p>
-		</td>
-  </tr>
-  <tr>
-    	<td align="center">
-			<img src="https://cdn.simpleicons.org/v/5d87bf/5d87bf" width="65" height="65"/>
-			<br>
-			<p>V<br>🔴</p>
-		</td>
-    	<td align="center">
-			<img src="https://cdn.simpleicons.org/mermaid/ff3670/ff3670" width="65" height="65"/>
-			<br>
-			<p>Mermaid<br>🔴</p>
-		</td>
-		<td align="center">
-			<img src="https://cdn.simpleicons.org/theodinproject/1e5085/1e5085" width="65" height="65"/>
-			<br>
-			<p>Odin<br>🔴 ⭐</p>
-	</tr>
-</table>
+🔴		| 🟡	| 🟢	| ⭐
+---		| ---	| ---	| ---
+JavaScript	| BASH	| C	| BASH			
+Go		|	| C++	| C
+Java		| 	| 	| GO
+Lua		|	|	| Java
+Ruby		|	|	| C++
+SQL		|	|	| SQL
+Typescript	|	|	| Typescript
+V		|	|	| ODIN
+Mermaid
+ODIN
 
 Plan to learn:
 
