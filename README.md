@@ -29,7 +29,7 @@ int main(void)
 
 #### I made the 🇧🇷 version of [MiniLibX Documentation](https://github.com/andreyvdl/MiniLibX_my_docs)
 
-&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;[![there’s a difference between knowing the path and walking the path.](./images/common_coree.png)](https://github.com/andreyvdl)   
+&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;[![there’s a difference between knowing the path and walking the path.](./images/common_coree.png)](https://github.com/andreyvdl)   
 [![MISSION CLAER](./images/phase_onem.png)](https://github.com/andreyvdl/42SP-Phase1)
 [![CONGRATULATIONS](./images/phase_twom.png)](https://github.com/andreyvdl/42SP-Phase2)
 [![${user} LVL ${level_curr} HP:${hp_curr}/${hp_max} SP:${sp_curr}/${sp_max}](./images/phase_threem.png)](https://github.com/andreyvdl/42SP-Phase3)
