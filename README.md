@@ -49,8 +49,8 @@ int main(void)
 ---		| ---		| ---		| ---
 JavaScript	| BASH		| C		| BASH			
 Go		| Vim/NeoVim	| C++		| GO
-Java		| Docker	| Three.js	| Java
-Lua		| 		|		| C++
+Java		| Docker	| 		| Java
+Lua		| Three.js	|		| C++
 Ruby		|		|		| SQL
 SQL		|		|		| Typescript
 Typescript	|		|		| ODIN
