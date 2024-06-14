@@ -38,20 +38,24 @@ int main(void)
 [comment]: <> (The color tells how much I know 🔴 low-mid, 🟡 mid, 🟢 mid-top)
 [comment]: <> (The star tells if is something I like to use)
 
-## 🔰 Skills:
+## 🔰 Technologies:
 
-🔴		| 🟡	| 🟢	| ⭐
----		| ---	| ---	| ---
-JavaScript	| BASH	| C	| BASH			
-Go		|	| C++	| C
-Java		| 	| 	| GO
-Lua		|	|	| Java
-Ruby		|	|	| C++
-SQL		|	|	| SQL
-Typescript	|	|	| Typescript
-V		|	|	| ODIN
-Mermaid
+🔴		| 🟡		| 🟢		| ⭐
+---		| ---		| ---		| ---
+JavaScript	| BASH		| C		| BASH			
+Go		| Vim/NeoVim	| C++		| GO
+Java		| Docker	| Three.js	| Java
+Lua		| 		|		| C++
+Ruby		|		|		| SQL
+SQL		|		|		| Typescript
+Typescript	|		|		| ODIN
+V		|		|		| Vue.js
+Mermaid		|		|		| Bootstrap
 ODIN
+Django
+Vue.js
+Bootstrap
+API REST
 
 Plan to learn:
 
