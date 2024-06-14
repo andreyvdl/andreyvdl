@@ -40,6 +40,11 @@ int main(void)
 
 ## 🔰 Technologies:
 
+🔴 = low to mid level
+🟡 = mid level
+🟢 = mid to high level
+⭐ = Favourite
+
 🔴		| 🟡		| 🟢		| ⭐
 ---		| ---		| ---		| ---
 JavaScript	| BASH		| C		| BASH			
