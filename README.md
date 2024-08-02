@@ -51,7 +51,7 @@ JavaScript	| BASH		| C		| BASH
 Go		| Vim/NeoVim	| C++		| GO
 Java		| Docker	| 		| Java
 Lua		| Three.js	|		| C++
-Ruby		|		|		| SQL
+Ruby		| Python	|		| SQL
 SQL		|		|		| Typescript
 Typescript	|		|		| ODIN
 V		|		|		| Vue.js
@@ -77,11 +77,6 @@ Plan to learn:
 			<p>C#</p>
 		</td>
 		<td align="center">
-			<img src="https://cdn.simpleicons.org/python/" width="65" height="65">
-			<br>
-			<p>Python3</p>
-		</td>
-		<td align="center">
 			<img src="https://cdn.simpleicons.org/r/276dc3/276dc3" width="65" height="65">
 			<br>
 			<p>R lang</p>
@@ -91,13 +86,13 @@ Plan to learn:
 			<br>
 			<p>PHP</p>
 		</td>
-	</tr>
-	<tr>
 		<td align="center">
 			<img src="https://cdn.simpleicons.org/kotlin/7f52ff/7f52ff" width="65" height="65">
 			<br>
 			<p>Kotlin</p>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.simpleicons.org/angular/dd1100/dd1100" width="65" height="65">
 			<br>
@@ -118,13 +113,13 @@ Plan to learn:
 			<br>
 			<p>Redux</p>
 		</td>
-	</tr>
-	<tr>
 		<td align="center">
 			<img src="https://cdn.simpleicons.org/perl/39457e/39457e" width="65" height="65">
 			<br>
 			<p>Perl</p>
 		</td>
+	</tr>
+	<tr>
 		<td align="center">
 			<img src="https://cdn.simpleicons.org/latex/008080/008080" width="65" height="65">
 			<br>
@@ -145,13 +140,13 @@ Plan to learn:
 			<br>
 			<p>Zig</p>
 		</td>
-	</tr>
-  <tr>
     <td align="center">
 			<img src="https://cdn.simpleicons.org/clojure/5881d8/5881d8" width="65" height="65"/>
 			<br>
 			<p>Clojure</p>
 		</td>
+	</tr>
+  <tr>
     <td align="center">
 			<img src="https://cdn.simpleicons.org/coffeescript/2f2625/2f2625" width="65" height="65"/>
 			<br>
@@ -172,13 +167,13 @@ Plan to learn:
 			<br>
 			<p>Visual Basic</p>
 		</td>
-  </tr>
-  <tr>
     <td align="center">
 			<img src="https://cdn.simpleicons.org/elm/1293d8/1293d8" width="65" height="65"/>
 			<br>
 			<p>ELM</p>
 		</td>
+  </tr>
+  <tr>
     <td align="center">
 			<img src="https://cdn.simpleicons.org/erlang/a90533/a90533" width="65" height="65"/>
 			<br>
@@ -199,13 +194,13 @@ Plan to learn:
 			<br>
 			<p>WebAssembly</p>
 		</td>
-  </tr>
-  <tr>
     <td align="center">
 			<img src="https://cdn.simpleicons.org/haskell/5d4f85/5d4f85" width="65" height="65"/>
 			<br>
 			<p>Haskell</p>
 		</td>
+  </tr>
+  <tr>
     <td align="center">
 			<img src="https://cdn.simpleicons.org/julia/9558b2/9558b2" width="65" height="65"/>
 			<br>
@@ -226,13 +221,13 @@ Plan to learn:
 			<br>
 			<p>PowerShell</p>
 		</td>
-  </tr>
-  <tr>
     <td align="center">
 			<img src="https://cdn.simpleicons.org/purescript/14161a/14161a" width="65" height="65"/>
 			<br>
 			<p>PureScript</p>
 		</td>
+  </tr>
+  <tr>
     <td align="center">
 			<img src="https://cdn.simpleicons.org/red/b32629/b32629" width="65" height="65"/>
 			<br>
