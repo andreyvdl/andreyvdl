@@ -54,10 +54,8 @@ Lua		| Three.js	|		| C++
 Ruby		| Python	|		| SQL
 SQL		|		|		| Typescript
 Typescript	|		|		| ODIN
-V		|		|		| Vue.js
-Mermaid		|		|		| Bootstrap
-ODIN
-Django
+ODIN		|		|		| Vue.js
+Django		|		|		| Bootstrap
 Vue.js
 Bootstrap
 API REST
