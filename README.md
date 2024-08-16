@@ -2,7 +2,7 @@
 
 I'm Andrey & welcome to my github page 🙂.
 <br>
-I'm a [cadet at 42sp 👨‍🚀🚀👽](https://profile.intra.42.fr/users/adantas-) studying to become a **human coder**.
+I'm a [human coder at 42sp 👨‍🚀🚀👽](https://profile.intra.42.fr/users/adantas-) and a software engineer.
 <br>
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark)](https://github.com/andreyvdl)
