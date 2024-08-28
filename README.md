@@ -2,12 +2,7 @@
 
 I'm Andrey & welcome to my github page 🙂.
 <br>
-I'm a [human coder at 42sp 👨‍🚀🚀👽](https://profile.intra.42.fr/users/adantas-) and a software engineer.
-<br>
-
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark)](https://github.com/andreyvdl)
-[![github status](https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/andreyvdl)
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/656a5a855145316d25a42db7?variant=dark)](https://roadmap.sh)
+I'm a [Alumnus at 42sp 👨‍🚀🚀👽](https://profile.intra.42.fr/users/adantas-) and a junior software engineer.
 <br>
 
 ```c
@@ -22,6 +17,9 @@ int main(void)
     return (EXIT_SUCCESS);
 }
 ```
+
+Want to talk with me?  
+<-- here are my socials
 
 [comment]: <> (My evolution on the 42 CV)
 
@@ -53,3 +51,7 @@ int main(void)
 - Python
 - Django
 - API REST
+
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark)](https://github.com/andreyvdl)
+[![github status](https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/andreyvdl)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/656a5a855145316d25a42db7?variant=dark)](https://roadmap.sh)
