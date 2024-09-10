@@ -32,10 +32,6 @@ Want to talk with me?
 [![CONGRATULATIONS](./images/phase_twom.png)](https://github.com/andreyvdl/42SP-Phase2)
 [![${user} LVL ${level_curr} HP:${hp_curr}/${hp_max} SP:${sp_curr}/${sp_max}](./images/phase_threem.png)](https://github.com/andreyvdl/42SP-Phase3)
 
-[comment]: <> (Things i know how to work)
-[comment]: <> (The color tells how much I know 🔴 low-mid, 🟡 mid, 🟢 mid-top)
-[comment]: <> (The star tells if is something I like to use)
-
 ## 🔰 Tech stacks:
 
 - C | C++
@@ -52,6 +48,6 @@ Want to talk with me?
 - Django
 - API REST
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark)](https://github.com/andreyvdl)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=32&theme=chartreuse-dark&layout=compact)](https://github.com/andreyvdl)
 [![github status](https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/andreyvdl)
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/656a5a855145316d25a42db7?variant=dark)](https://roadmap.sh)
