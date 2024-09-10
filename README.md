@@ -38,17 +38,16 @@ Want to talk with me?
 
 ## 🔰 Tech stacks:
 
-- C/C++
+- C | C++
 - BASH
 - GO
 - Java
-- C#/.NET/ASP.NET/ASP.NET MVC
+- C# | .NET | ASP.NET | .NET MVC
 - SQL
-- Typescript/Javascript
+- Typescript | Javascript
 - Bootstrap
-- Vue.js
 - Three.js
-- Docker
+- Docker | Compose
 - Python
 - Django
 - API REST
