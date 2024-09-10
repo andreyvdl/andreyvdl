@@ -42,6 +42,7 @@ Want to talk with me?
 - BASH
 - GO
 - Java
+- C#/.NET/ASP.NET/ASP.NET MVC
 - SQL
 - Typescript/Javascript
 - Bootstrap
