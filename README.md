@@ -48,6 +48,6 @@ Want to talk with me?
 - Django
 - API REST
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=32&theme=chartreuse-dark&layout=compact)](https://github.com/andreyvdl)
-[![github status](https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/andreyvdl)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=32&theme=gotham&layout=compact)](https://github.com/andreyvdl)
+[![github status](https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=gotham&show_icons=true&include_all_commits=true&rank_icon=percentile&show=prs_merged_percentage,prs_merged,reviews)](https://github.com/andreyvdl)
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/656a5a855145316d25a42db7?variant=dark)](https://roadmap.sh)
