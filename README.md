@@ -34,19 +34,20 @@ Want to talk with me?
 
 ## 🔰 Tech stacks:
 
-- C | C++
-- BASH
-- GO
-- Java
+- Elixir
 - C# | .NET | ASP.NET | .NET MVC
-- SQL
-- Typescript | Javascript
-- Bootstrap
-- Three.js
-- Docker | Compose
+- API REST
 - Python
 - Django
-- API REST
+- Three.js
+- Bootstrap
+- Docker | Compose
+- SQL
+- Java
+- GO
+- Typescript | Javascript
+- C | C++
+- BASH
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=32&theme=gotham&layout=compact)](https://github.com/andreyvdl)
 [![github status](https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=gotham&rank_icon=percentile&show=prs_merged_percentage,prs_merged,reviews&include_all_commits=true)](https://github.com/andreyvdl)
