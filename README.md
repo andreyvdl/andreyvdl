@@ -34,6 +34,7 @@ Want to talk with me?
 
 ## 🔰 Tech stacks:
 
+- Terraform
 - Elixir
 - C# | .NET | ASP.NET | .NET MVC
 - API REST
