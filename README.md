@@ -52,4 +52,4 @@ Want to talk with me?
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=32&theme=gotham&layout=compact)](https://github.com/andreyvdl)
 [![github status](https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=gotham&rank_icon=percentile&show=prs_merged_percentage,prs_merged,reviews&include_all_commits=true)](https://github.com/andreyvdl)
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/656a5a855145316d25a42db7?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/656a5a855145316d25a42db7?variant=dark&roadmaps=git-github%2Cjavascript%2Cgolang%2Cpython)](https://roadmap.sh)
