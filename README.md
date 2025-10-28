@@ -3,7 +3,7 @@
 (i'm using [gitlab](https://gitlab.com/andreyvdl) now)  
 I'm Andrey & welcome to my github page 🙂.
 <br>
-I'm a [Alumnus at 42sp 👨‍🚀🚀👽](https://profile.intra.42.fr/users/adantas-) and a junior software engineer.
+I'm a [Alumnus at 42sp 👨‍🚀🚀👽](https://www.42sp.org.br) and a junior software engineer.
 <br>
 
 ```c
